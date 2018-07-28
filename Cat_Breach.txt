@@ -1,0 +1,48 @@
+Loc_Beach_info	Category
+Paper/Films	HARD
+Network Server	ELEC
+"Other, Other Portable Electronic Device"	OELE
+Laptop	ELEC
+Desktop Computer	ELEC
+Other	OTHE
+"Desktop Computer, Electronic Medical Record, Network Server"	ELEC
+Other Portable Electronic Device	OELE
+"Desktop Computer, Laptop"	MAG
+Email	EM
+"Electronic Medical Record, Other, Other Portable Electronic Device"	OELE
+"Other, Paper/Films"	HARD
+"Email, Other Portable Electronic Device"	OELE
+"Desktop Computer, Email, Laptop, Network Server"	OELE
+"Desktop Computer, Paper/Films"	SEMI
+"Desktop Computer, Laptop, Other, Other Portable Electronic Device"	OELE
+Electronic Medical Record	ELEC
+"Laptop, Paper/Films"	SEMI
+"Laptop, Network Server"	ELEC
+"Desktop Computer, Network Server"	ELEC
+"Email, Network Server"	ELEC
+"Electronic Medical Record, Other"	OELE
+"Desktop Computer, Other, Other Portable Electronic Device"	OELE
+"Desktop Computer, Network Server, Other, Other Portable Electronic Device"	OELE
+"Desktop Computer, Electronic Medical Record, Email, Laptop, Network Server, Other, Other Portable Electronic Device"	OELE
+"Laptop, Other Portable Electronic Device, Paper/Films"	OELE
+"Desktop Computer, Electronic Medical Record, Email, Laptop, Network Server, Other, Other Portable Electronic Device, Paper/Films"	OELE
+"Electronic Medical Record, Laptop"	ELEC
+"Electronic Medical Record, Paper/Films"	ELEC
+"Laptop, Other Portable Electronic Device"	OELE
+"Desktop Computer, Electronic Medical Record"	ELEC
+"Desktop Computer, Other Portable Electronic Device"	OELE
+"Email, Other"	OELE
+"Network Server, Other"	OELE
+"Desktop Computer, Electronic Medical Record, Email, Network Server, Paper/Films"	SEMI
+"Desktop Computer, Other"	OELE
+"Desktop Computer, Email"	ELEC
+"Email, Laptop, Network Server"	ELEC
+"Email, Laptop, Other Portable Electronic Device"	OELE
+"Desktop Computer, Laptop, Other Portable Electronic Device"	OELE
+"Email, Laptop"	ELEC
+"Electronic Medical Record, Network Server"	ELEC
+"Desktop Computer, Network Server, Paper/Films"	ELEC
+"Desktop Computer, Email, Laptop, Network Server, Other, Other Portable Electronic Device"	OELE
+"Laptop, Other"	OELE
+"Desktop Computer, Laptop, Network Server"	ELEC
+"Other Portable Electronic Device, Paper/Films"	OELE

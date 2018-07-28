@@ -1,0 +1,1152 @@
+Row.ID	Name.of.Covered.Entity	State	Covered.Entity.Type	Individuals.Affected	Breach.Submission.Date	Type.of.Breach	Business.Associate.Present	Category
+1	Brooke Army Medical Center	TX	Healthcare Provider	1000	10/21/2009	Theft	FALSE	HARD
+2	"Mid America Kidney Stone Association, LLC"	MO	Healthcare Provider	1000	10/28/2009	Theft	FALSE	ELEC
+3	Alaska Department of Health and Social Services	AK	Healthcare Provider	501	10/30/2009	Theft	FALSE	OELE
+4	"Health Services for Children with Special Needs, Inc."	DC	Health Plan	3800	11/17/2009	Loss	FALSE	ELEC
+5	"L. Douglas Carlson, M.D."	CA	Healthcare Provider	5257	11/20/2009	Theft	FALSE	ELEC
+6	"David I. Cohen, MD"	CA	Healthcare Provider	857	11/20/2009	Theft	FALSE	ELEC
+7	"Michele Del Vicario, MD"	CA	Healthcare Provider	6145	11/20/2009	Theft	FALSE	ELEC
+8	"Joseph F. Lopez, MD"	CA	Healthcare Provider	952	11/20/2009	Theft	FALSE	ELEC
+9	"Mark D. Lurie, MD"	CA	Healthcare Provider	5166	11/20/2009	Theft	FALSE	ELEC
+10	City of Hope National Medical Center	CA	Healthcare Provider	5900	11/23/2009	Theft	FALSE	ELEC
+11	The Children's Hospital of Philadelphia	PA	Healthcare Provider	943	11/24/2009	Theft	FALSE	ELEC
+12	"Cogent Healthcare, Inc."	TN	Business Associate	6400	11/25/2009	Theft	TRUE	ELEC
+13	"Democracy Data & Communications, LLC ("	VA	Business Associate	83000	12/8/2009	Other	TRUE	HARD
+14	Kern Medical Center	CA	Healthcare Provider	596	12/10/2009	Theft	FALSE	OTHE
+15	"Rick Lawson, Professional Computer Services"	NC	Business Associate	2000	12/11/2009	Theft	TRUE	ELEC
+16	Detroit Department of Health and Wellness Promotion	MI	Healthcare Provider	10000	12/15/2009	Theft	FALSE	OELE
+17	Detroit Department of Health and Wellness Promotion	MI	Healthcare Provider	646	12/15/2009	Theft	FALSE	MAG
+18	"University of California, San Francisco"	CA	Healthcare Provider	610	12/15/2009	Other	FALSE	EM
+19	Daniel J. Sigman MD PC	MA	Business Associate	1860	1/7/2010	Theft	TRUE	OELE
+20	Massachusetts Eye and Ear Infirmary	MA	Healthcare Provider	1076	1/8/2010	Theft	FALSE	OTHE
+21	Service Benefits Plan Administrative Services Corp	DC	Business Associate	3400	1/8/2010	Theft	TRUE	HARD
+22	Merkle Direct Marketing	MD	Business Associate	15000	1/11/2010	Theft	TRUE	HARD
+23	Kaiser Permanente Medical Care Program	CA	Healthcare Provider	15500	1/12/2010	Theft	FALSE	OELE
+24	United Micro Data	ID	Business Associate	2562	1/14/2010	Theft	TRUE	OTHE
+25	"Goodwill Industries of Greater Grand Rapids, Inc."	MI	Healthcare Provider	10000	1/15/2010	Theft	FALSE	OTHE
+26	Children's Medical Center of Dallas	TX	Healthcare Provider	3800	1/18/2010	Loss	FALSE	OELE
+27	Concentra	TX	Healthcare Provider	900	1/19/2010	Theft	FALSE	ELEC
+28	Ashley and Gray DDS	MO	Healthcare Provider	9309	1/19/2010	Theft	FALSE	ELEC
+29	Advocate Health Care	IL	Healthcare Provider	812	1/22/2010	Theft	FALSE	ELEC
+30	The Methodist Hospital	TX	Healthcare Provider	689	1/25/2010	Theft	FALSE	OTHE
+31	"University of California, San Francisco"	CA	Healthcare Provider	7300	1/27/2010	Theft	FALSE	ELEC
+32	Carle Clinic Association	IL	Healthcare Provider	1300	1/28/2010	Theft	FALSE	HARD
+33	Health Behavior Innovations (HBI)	UT	Business Associate	5700	2/5/2010	Theft	TRUE	OTHE
+34	Center for Neurosciences	AZ	Healthcare Provider	1100	2/10/2010	Theft	FALSE	ELEC
+35	Blue Cross Blue Shield of RI	RI	Business Associate	528	2/16/2010	Other	TRUE	HARD
+36	"MSO of Puerto Rico, Inc. "	PR	Business Associate	1907	2/17/2010	Theft	TRUE	HARD
+37	MSO of Puerto Rico	PR	Business Associate	605	2/17/2010	Theft	TRUE	HARD
+38	Cardiology Consultants/Baptist Health Care Corporation	FL	Healthcare Provider	8000	2/18/2010	Theft	FALSE	ELEC
+39	"State of TN, Bureau of TennCare"	TN	Health Plan	3900	2/19/2010	Theft	FALSE	HARD
+40	Lucille Packard Children's Hospital	CA	Healthcare Provider	532	2/21/2010	Other	FALSE	ELEC
+41	University of New Mexico Health Sciences Center	NM	Healthcare Provider	1900	2/23/2010	Other	FALSE	ELEC
+42	Advanced NeuroSpinal Care	CA	Healthcare Provider	3500	2/23/2010	Theft	FALSE	ELEC
+43	"Central Brooklyn Medical Group, PC"	NY	Healthcare Provider	500	2/25/2010	Theft	FALSE	HARD
+44	Shands at UF	FL	Healthcare Provider	12580	3/1/2010	Theft	FALSE	ELEC
+45	Wyoming Department of Health	WY	Health Plan	9023	3/2/2010	Unauthorized Access/Disclosure	FALSE	ELEC
+46	Thrivent Financial for Lutherans	WI	Health Plan	9500	3/3/2010	Theft	FALSE	ELEC
+47	North Carolina Baptist Hospital	NC	Healthcare Provider	554	3/3/2010	Theft	FALSE	HARD
+48	Montefiore Medical Center	NY	Healthcare Provider	625	3/9/2010	Theft	FALSE	ELEC
+49	"Ernest T. Bice, Jr. DDS, P.A."	TX	Healthcare Provider	21000	3/10/2010	Theft	FALSE	OELE
+50	Lee Memorial Health System	FL	Healthcare Provider	3800	3/17/2010	Other	FALSE	HARD
+51	"Laboratory Corporation of America/Dynacare Northwest, Inc."	WA	Healthcare Provider	5080	3/18/2010	Theft	FALSE	ELEC
+52	Mount Sinai Medical Center	FL	Healthcare Provider	2600	3/23/2010	Theft	FALSE	ELEC
+53	Griffin Hospital	CT	Healthcare Provider	957	3/26/2010	Hacking/IT Incident	FALSE	ELEC
+54	"Hypertension, Nephrology, Dialysis and Transplantation, PC"	AL	Healthcare Provider	2465	3/27/2010	Theft	FALSE	ELEC
+55	"Computer Program and Systems, Inc. (CPSI)"	AL	Business Associate	768	3/30/2010	Unauthorized Access/Disclosure 	TRUE	EM
+56	"Laboratory Corporation of America / US LABS / Dianon Systems, Inc"	AZ	Healthcare Provider	2773	4/1/2010	Theft	FALSE	OELE
+57	University of Pittsburgh Student Health Center	PA	Healthcare Provider	8000	4/2/2010	"Loss, Theft"	FALSE	HARD
+58	Providence Hospital	MI	Healthcare Provider	83945	4/5/2010	Other	FALSE	OTHE
+59	VHS Genesis Lab Inc. 	IL	Healthcare Provider	6800	4/5/2010	Loss	FALSE	HARD
+60	"McKesson Information Solutions, LLC"	GA	Business Associate	660	4/9/2010	Other	TRUE	HARD
+61	Pediatric Sports and Spine Associates	TX	Healthcare Provider	955	4/9/2010	Theft	FALSE	ELEC
+62	"Affinity Health Plan, Inc."	NY	Health Plan	344579	4/14/2010	Theft	FALSE	OTHE
+63	Tomah Memorial Hospital	WI	Healthcare Provider	600	4/16/2010	Other	FALSE	OTHE
+64	"Praxair Healthcare Services, Inc. (Home Care Supply in NY)"	CT	Healthcare Provider	54165	4/19/2010	Theft	FALSE	ELEC
+65	Massachusetts Eye and Ear Infirmary	MA	Healthcare Provider	3594	4/20/2010	Theft	FALSE	ELEC
+66	Blue Cross & Blue Shield of Rhode Island	RI	Health Plan	12000	4/21/2010	Theft	FALSE	HARD
+67	South Carolina Department of Health and Environmental Control	SC	Health Plan	2850	4/22/2010	Improper Disposal	FALSE	HARD
+68	St. Joseph Heritage Healthcare	CA	Healthcare Provider	22012	4/23/2010	Theft	FALSE	ELEC
+69	John Muir Physician Network	CA	Healthcare Provider	5450	4/24/2010	Theft	FALSE	ELEC
+70	Medical Center At Bowling Green	KY	Healthcare Provider	5148	4/26/2010	Theft	FALSE	OELE
+71	TOWERS WATSON	VA	Business Associate	1874	4/27/2010	Theft	TRUE	OTHE
+72	UnitedHealth Group health plan single affiliated covered entity	MN	Health Plan	735	4/27/2010	Theft	FALSE	HARD
+73	South Texas Veterans Health Care System	TX	Healthcare Provider	1430	4/28/2010	"Improper Disposal, Loss"	FALSE	HARD
+74	Rockbridge Area Community Services	VA	Healthcare Provider	500	4/29/2010	Theft	FALSE	MAG
+75	"Millennium Medical Management Resources, Inc."	IL	Business Associate	180111	4/29/2010	Theft	TRUE	OELE
+76	VA Eastern Colorado Health Care System	CO	Healthcare Provider	649	5/5/2010	Theft	FALSE	HARD
+77	Miami VA Healthcare System	FL	Healthcare Provider	568	5/5/2010	Theft	FALSE	HARD
+78	"Heriberto Rodriguez-Ayala, M.D."	TX	Healthcare Provider	4200	5/11/2010	Theft	FALSE	ELEC
+79	Georgetown University Hospital	DC	Healthcare Provider	2416	5/13/2010	"Other, Theft"	FALSE	OELE
+80	Silicon Valley Eyecare Optometry and Contact Lenses	CA	Healthcare Provider	40000	5/13/2010	Theft	FALSE	ELEC
+81	Heritage Health Solutions	TX	Business Associate	656	5/14/2010	Theft	TRUE	ELEC
+82	Oconee Physician Practices	SC	Healthcare Provider	653	5/20/2010	Theft	FALSE	ELEC
+83	University of Rochester Medical Center and Affiliates	NY	Healthcare Provider	2628	5/20/2010	Other	FALSE	HARD
+84	DeBoer & Associates	NE	Business Associate	800	5/21/2010	Theft	TRUE	ELEC
+85	"City of Charlotte, NC (Health Plan)"	NC	Business Associate	5220	5/24/2010	Loss	TRUE	OTHE
+86	VA North Texas Health Care System	TX	Healthcare Provider	4083	5/25/2010	Improper Disposal	FALSE	HARD
+87	Rainbow Hospice and Palliative Care	IL	Healthcare Provider	1000	5/26/2010	Theft	FALSE	ELEC
+88	Cincinnati Childrens Hospital Medical Center 	OH	Healthcare Provider	60998	6/1/2010	Theft	FALSE	ELEC
+89	"University of Louisville Research Foundation, Inc., DBA The Kidney Disease Program"	KY	Healthcare Provider	708	6/1/2010	Hacking/IT Incident	FALSE	ELEC
+90	Occupational Health Partners	KS	Healthcare Provider	1105	6/1/2010	Theft	FALSE	ELEC
+91	"AvMed, Inc."	FL	Health Plan	1220000	6/3/2010	Theft	FALSE	ELEC
+92	UnitedHealth Group health plan single affiliated covered entity	MN	Health Plan	16291	6/4/2010	Other	FALSE	HARD
+93	"Siemens Medical Solutions, USA, Inc"	PA	Business Associate	130495	6/4/2010	Theft	TRUE	OTHE
+94	"Nihal Saran, MD "	MI	Healthcare Provider	2300	6/4/2010	Theft	FALSE	ELEC
+95	St. Jude Children's Research Hospital	TN	Healthcare Provider	1745	6/8/2010	Loss	FALSE	ELEC
+96	DentaQuest	MA	Business Associate	10515	6/9/2010	Theft	TRUE	ELEC
+97	The Children's Medical Center of Dayton	OH	Healthcare Provider	1001	6/14/2010	Other	FALSE	EM
+98	Comprehensive Care Management Corporation	NY	Health Plan	1020	6/14/2010	Theft	FALSE	OELE
+99	University of Kentucky	KY	Healthcare Provider	2027	6/18/2010	Theft	FALSE	ELEC
+100	alma aguado md pa	TX	Healthcare Provider	600	6/21/2010	Theft	FALSE	ELEC
+101	"Augusta Data Storage, Inc"	GA	Business Associate	14000	6/21/2010	Loss	TRUE	OTHE
+102	University Health System	NV	Healthcare Provider	7526	6/22/2010	Theft	FALSE	ELEC
+103	"Aramark Healthcare Support Services, LLC"	PA	Business Associate	937	6/24/2010	Other	TRUE	EM
+104	"Mary M. Desch,MD/PathHealer, LTD"	AZ	Healthcare Provider	5893	6/28/2010	Theft	FALSE	ELEC
+105	Children's Hospital & Research Center at Oakland	CA	Healthcare Provider	1000	6/29/2010	Other	FALSE	HARD
+106	Centerstone	TN	Healthcare Provider	1537	7/2/2010	Theft	FALSE	SEMI
+107	Care 1st Health Plan	CA	Business Associate	29000	7/6/2010	"Loss, Other"	TRUE	OELE
+108	Long Island Consultation Center	NY	Healthcare Provider	800	7/7/2010	Theft	FALSE	OELE
+109	NYU Hospitals Center	NY	Healthcare Provider	2563	7/7/2010	Theft	FALSE	OELE
+110	University of Florida	FL	Healthcare Provider	2047	7/8/2010	Other	FALSE	HARD
+111	SunBridge Healthcare Corporation	NM	Healthcare Provider	3830	7/8/2010	Theft	FALSE	ELEC
+112	Governor's Office of Information Technology	CO	Business Associate	105470	7/9/2010	Theft	TRUE	ELEC
+113	Prince William County Community Services (CS)	VA	Healthcare Provider	669	7/15/2010	Theft	FALSE	OELE
+114	UnitedHealthcare Insurance Company 	MN	Business Associate	1097	7/17/2010	Other	TRUE	HARD
+115	"Iron Mountain Data Products, Inc. (now known as "	PA	Business Associate	800000	7/19/2010	Loss	TRUE	OELE
+116	Montefiore Medical Center	NY	Healthcare Provider	16820	7/23/2010	Theft	FALSE	ELEC
+117	The University of Texas at Arlington	TX	Healthcare Provider	27000	7/23/2010	Hacking/IT Incident	FALSE	ELEC
+118	"Medina OB/GYN Associates, Inc"	OH	Business Associate	1200	7/23/2010	Improper Disposal	TRUE	HARD
+119	Montefiore Medical Center	NY	Healthcare Provider	23753	7/23/2010	Theft	FALSE	ELEC
+120	"DC Chartered Health Plan, Inc"	DC	Health Plan	540	7/23/2010	Theft	FALSE	ELEC
+121	Aetna	CT	Health Plan	6372	7/27/2010	Improper Disposal	FALSE	HARD
+122	Charles Mitchell MD	TX	Healthcare Provider	6873	7/28/2010	Theft	FALSE	ELEC
+123	Matrix Imaging	NY	Business Associate	2631	7/30/2010	Theft	TRUE	HARD
+124	Baylor College of Medicine	TX	Healthcare Provider	1646	7/30/2010	Theft	FALSE	ELEC
+125	Texas Children's Hospital	TX	Healthcare Provider	694	7/30/2010	Theft	FALSE	ELEC
+126	Mercer	MI	Business Associate	1073	7/30/2010	Loss	TRUE	OTHE
+127	Carolina Center for Development and Rehabilitation	NC	Healthcare Provider	1590	7/30/2010	Theft	FALSE	HARD
+128	"WellPoint, Inc."	IN	Health Plan	31700	7/30/2010	Hacking/IT Incident	FALSE	ELEC
+129	Wright State Physicians	OH	Healthcare Provider	1309	8/3/2010	Other	FALSE	ELEC
+130	Penn Treaty Network America Insurance Company 	PA	Health Plan	560	8/3/2010	Other	FALSE	OTHE
+131	Aultman Hospital	OH	Healthcare Provider	13867	8/5/2010	Theft	FALSE	ELEC
+132	Jewish Hospital	KY	Healthcare Provider	2089	8/5/2010	Theft	FALSE	ELEC
+133	McKesson Pharmacy Systems LLC	GA	Business Associate	11440	8/5/2010	Other	TRUE	OELE
+134	"Beauty Dental, Inc."	IL	Healthcare Provider	657	8/5/2010	"Loss, Theft"	FALSE	HARD
+135	Fort Worth Allergy and Asthma Associates	TX	Healthcare Provider	25000	8/5/2010	Theft	FALSE	ELEC
+136	St. John's Mercy Medical Group	MO	Healthcare Provider	1907	8/9/2010	Improper Disposal	FALSE	HARD
+137	UNCG Speech and Hearing Center	NC	Healthcare Provider	2300	8/9/2010	Hacking/IT Incident	FALSE	ELEC
+138	"Thomas Jefferson University Hospitals, Inc."	PA	Healthcare Provider	21000	8/9/2010	Theft	FALSE	ELEC
+139	Mercer Health & Benefits	ID	Business Associate	5500	8/10/2010	Loss	TRUE	OTHE
+140	"Ward A. Morris, DDS"	WA	Healthcare Provider	2698	8/11/2010	Theft	FALSE	ELEC
+141	"Chattanooga Family Practice Associates, P.C."	TN	Healthcare Provider	1711	8/16/2010	Loss	FALSE	OELE
+142	Yale University	CT	Healthcare Provider	1000	8/18/2010	Theft	FALSE	ELEC
+143	Cook County Health & Hospitals System	IL	Healthcare Provider	7081	8/20/2010	Theft	FALSE	ELEC
+144	"Eastmoreland Surgical Clinic, William Graham, DO"	OR	Healthcare Provider	4328	8/20/2010	Theft	FALSE	OELE
+145	SunBridge Healthcare Corporation	NM	Healthcare Provider	1000	8/25/2010	Theft	FALSE	OELE
+146	Pioneer Valley Pathology	MA	Business Associate	24750	8/25/2010	Theft	TRUE	HARD
+147	KPMG LLP	NY	Business Associate	956	8/26/2010	Theft	TRUE	OELE
+148	KPMG LLP	NY	Business Associate	3630	8/26/2010	Theft	TRUE	OELE
+149	NYU School of Medicine--Aging and Dementia Clinical Research Center 	NY	Healthcare Provider	1200	8/27/2010	Loss	FALSE	OELE
+150	University of Rochester Medical Center and Affiliates	NY	Healthcare Provider	857	9/7/2010	Loss	FALSE	OELE
+151	Aon Consulting	PA	Business Associate	22642	9/7/2010	Other	TRUE	ELEC
+152	"Curtis R. Bryan, M.D."	VA	Healthcare Provider	2739	9/8/2010	Theft	FALSE	ELEC
+153	Mayo Clinic	MN	Healthcare Provider	1740	9/8/2010	Theft	FALSE	ELEC
+154	LabCorp Patient Service Center	NV	Healthcare Provider	507	9/10/2010	Theft	FALSE	HARD
+155	The Kent Center 	RI	Healthcare Provider	1361	9/10/2010	Theft	FALSE	HARD
+156	"Pediatric and Adult Allergy, PC"	IA	Healthcare Provider	19222	9/11/2010	Loss	FALSE	OELE
+157	Ault Chiropractic Center	IN	Healthcare Provider	2000	9/15/2010	Theft	FALSE	MAG
+158	County of Los Angeles	CA	Healthcare Provider	33000	9/17/2010	Theft	FALSE	HARD
+159	"Matthew H. Conrad, M.D., P.A."	KS	Healthcare Provider	1200	9/19/2010	Theft	FALSE	SEMI
+160	CareCore National	SC	Business Associate	1270	9/20/2010	Other	TRUE	HARD
+161	Counseling and Psychotherapy of Throggs Neck	NY	Healthcare Provider	9000	9/21/2010	Theft	FALSE	ELEC
+162	Alaskan AIDS Assistance Association	AK	Business Associate	2000	9/22/2010	Theft	TRUE	OELE
+163	"St. Vincent Hospital and Health Care Center, Inc."	IN	Healthcare Provider	1199	9/23/2010	Theft	FALSE	ELEC
+164	Eden Medical Center	CA	Business Associate	1474	9/23/2010	Theft	TRUE	OELE
+165	Oroville Hospital	CA	Business Associate	1474	9/23/2010	Theft	TRUE	OELE
+166	NewYork-Presbyterian Hospital and Columbia University Medical Center	NY	Healthcare Provider	6800	9/24/2010	Theft	FALSE	ELEC
+167	St. James Hospital and Health Centers	IL	Healthcare Provider	967	9/24/2010	Improper Disposal	FALSE	HARD
+168	"University of Oklahoma - Tulsa, Neurology Clinic"	OK	Healthcare Provider	19200	9/27/2010	Hacking/IT Incident	FALSE	ELEC
+169	"LORENZO BROWN, MD INC."	CA	Healthcare Provider	928	9/29/2010	Theft	FALSE	ELEC
+170	Joseph A. Gagnon d/b/a Goldthwait Associates	MA	Business Associate	11000	10/1/2010	Improper Disposal	TRUE	HARD
+171	WESTMED Medical Group	NY	Healthcare Provider	578	10/5/2010	Theft	FALSE	ELEC
+172	"Cumberland Gastroenterology, P.S.C."	KY	Healthcare Provider	2200	10/5/2010	Theft	FALSE	HARD
+173	"Debra C. Duffy, DDS"	TX	Healthcare Provider	4700	10/5/2010	Theft	FALSE	ELEC
+174	Johns Hopkins University Applied Physics Laboratory (JHU/APL) Medical and Dental Insurance Plan	MD	Health Plan	692	10/6/2010	Other	FALSE	OTHE
+175	LoneStar Audiology Group	TX	Healthcare Provider	585	10/8/2010	Theft	FALSE	ELEC
+176	Utah Department of Workforce Services	UT	Business Associate	1298	10/13/2010	Other	TRUE	SEMI
+177	SW Seattle Orthopaedic and Sports Medicine	WA	Healthcare Provider	9493	10/15/2010	Hacking/IT Incident	FALSE	ELEC
+178	University of Arkansas for Medical Sciences	AR	Healthcare Provider	1000	10/18/2010	Theft	FALSE	OELE
+179	Aspen Dental Care P.C.	CO	Healthcare Provider	2500	10/26/2010	Theft	FALSE	OTHE
+180	"BlueCross BlueShield of Tennessee, Inc."	TN	Health Plan	1023209	11/1/2010	Theft	FALSE	OTHE
+181	Northridge Hospital Medical Center	CA	Business Associate	716	11/2/2010	Loss	TRUE	HARD
+182	"Triple-S Management, Corp.; Triple-S Salud, Inc.; "	PR	Business Associate	475000	11/4/2010	"Hacking/IT Incident, Unauthorized Access/Disclosure"	TRUE	ELEC
+183	"Aetna, Inc."	CT	Health Plan	2345	11/7/2010	Unauthorized Access/Disclosure	FALSE	ELEC
+184	Sta-home Health & Hospice	MS	Healthcare Provider	1104	11/8/2010	Theft	FALSE	ELEC
+185	Medical Card System/MCS-HMO/MCS Advantage/MCS Life	PR	Business Associate	115000	11/9/2010	Unauthorized Access/Disclosure	TRUE	OELE
+186	VNA of Southeastern Ct.	CT	Healthcare Provider	12000	11/11/2010	Theft	FALSE	ELEC
+187	"Prime Home Care, LLC"	NE	Healthcare Provider	1550	11/12/2010	Theft	FALSE	ELEC
+188	Visiting Nurse Service Association of Schenectady County	NY	Healthcare Provider	535	11/12/2010	Theft	FALSE	ELEC
+189	"Manor Care Indy (South), LLC."	IN	Healthcare Provider	845	11/12/2010	Unauthorized Access/Disclosure	FALSE	HARD
+190	"Robert Wheatley, DDS, PC"	MO	Healthcare Provider	1400	11/15/2010	Theft	FALSE	ELEC
+191	Henry Ford Hospital	MI	Healthcare Provider	3700	11/15/2010	Theft	FALSE	ELEC
+192	Holy Cross Hospital	FL	Healthcare Provider	1500	11/16/2010	Theft	FALSE	HARD
+193	"Professional Transcription Company, Inc."	NY	Business Associate	1744	11/24/2010	Theft	TRUE	ELEC
+194	Memorial Hospital of Gardena	CA	Healthcare Provider	771	11/25/2010	Unauthorized Access/Disclosure	FALSE	HARD
+195	Oklahoma City VA Medical Center	OK	Healthcare Provider	1950	11/29/2010	"Improper Disposal, Loss, Theft"	FALSE	HARD
+196	Albert Einstein Healthcare Network	PA	Healthcare Provider	613	11/30/2010	Theft	FALSE	ELEC
+197	Kings County Hospital Center	NY	Healthcare Provider	542	11/30/2010	Theft	FALSE	ELEC
+198	University of Tennessee Medical Center	TN	Healthcare Provider	8200	11/30/2010	Improper Disposal	FALSE	HARD
+199	H.E.L.P. Financial Corporation	MI	Business Associate	9475	12/3/2010	Unauthorized Access/Disclosure	TRUE	HARD
+200	zarzamora family dental care	TX	Healthcare Provider	800	12/7/2010	Theft	FALSE	ELEC
+201	Hospital Auxilio Mutuo	PR	Healthcare Provider	1000	12/13/2010	"Hacking/IT Incident, Theft, Unauthorized Access/Disclosure"	FALSE	MAG
+202	"Gary C. Spinks, DMD, PC"	MD	Healthcare Provider	1000	12/13/2010	Hacking/IT Incident	FALSE	ELEC
+203	"Gair Medical Transcription Services, Inc."	PA	Business Associate	1085	12/15/2010	Unauthorized Access/Disclosure	TRUE	ELEC
+204	Cook County Health & Hospitals System	IL	Healthcare Provider	556	12/17/2010	Theft	FALSE	ELEC
+205	"Dean Health Systems, Inc.; St. Mary's Hospital; St. Marys Dean Ventures, Incorporated"	WI	Healthcare Provider	3288	12/20/2010	Theft	FALSE	ELEC
+206	Riverside Mercy Hospital and Ohio/Mercy Diagnostics	OH	Healthcare Provider	1000	12/21/2010	Improper Disposal	FALSE	HARD
+207	California Therapy Solutions	CA	Healthcare Provider	1250	12/22/2010	Theft	FALSE	OELE
+208	Hils Transcription	IN	Business Associate	585	12/27/2010	Unauthorized Access/Disclosure	TRUE	OTHE
+209	The Southwestern Indiana Regional Council on Aging	IN	Business Associate	757	12/27/2010	Theft	TRUE	ELEC
+210	Mankato Clinic	MN	Healthcare Provider	3159	12/28/2010	Theft	FALSE	ELEC
+211	Geisinger Wyoming Valley Medical Center	PA	Healthcare Provider	2928	12/28/2010	Theft	FALSE	EM
+212	Our Lady of Peace Hospital	KY	Healthcare Provider	24600	12/29/2010	"Loss, Theft"	FALSE	OELE
+213	"Zenith Administrators, Inc."	MD	Business Associate	800	12/29/2010	Theft	TRUE	HARD
+214	"Southern Perioperative Services, P.C."	AL	Healthcare Provider	2000	12/30/2010	Theft	FALSE	OELE
+215	Keystone/AmeriHealth Mercy Health Plans	PA	Health Plan	808	12/30/2010	Loss	FALSE	OELE
+216	"Ankle + Foot Center of Tampa Bay, Inc."	FL	Healthcare Provider	156000	1/3/2011	Theft	FALSE	ELEC
+217	OhioHealth Corporation dba Grant Medical Center	OH	Healthcare Provider	501	1/4/2011	Theft	FALSE	MAG
+218	"Seacoast Radiology, PA"	NH	Healthcare Provider	231400	1/10/2011	Hacking/IT Incident	FALSE	ELEC
+219	Friendship Center Dental Office	FL	Healthcare Provider	2200	1/11/2011	Theft	FALSE	ELEC
+220	Centra	VA	Healthcare Provider	11982	1/12/2011	Theft	FALSE	ELEC
+221	St.Vincent Hospital - Indianapolis	IN	Healthcare Provider	1848	1/12/2011	Hacking/IT Incident	FALSE	ELEC
+222	Franciscan Medical Group	WA	Healthcare Clearing House	1250	1/13/2011	Theft	FALSE	ELEC
+223	State of South Carolina Budget and Control Board Employee Insurance Program (EIP)	SC	Health Plan	5596	1/14/2011	Theft	FALSE	ELEC
+224	Lake Woods Nursing & Rehabilitation Center	MI	Healthcare Provider	656	1/18/2011	Theft	FALSE	MAG
+225	J. A. Still Corporation	MO	Business Associate	4800	1/18/2011	Theft	TRUE	OTHE
+226	Travis Software Corp.	TX	Business Associate	16200	1/18/2011	Loss	TRUE	OELE
+227	"Grays Harbor Pediatrics, PLLC"	WA	Healthcare Provider	12009	1/21/2011	Theft	FALSE	OELE
+228	"Hanger Prosthetics & Orthotics, Inc."	TX	Healthcare Provider	4486	1/24/2011	Theft	FALSE	ELEC
+229	Baylor Heart and Vascular Center	TX	Healthcare Provider	8241	1/25/2011	Theft	FALSE	OELE
+230	"CHC MEMPHIS CMHC, LLC"	TN	Healthcare Provider	500	1/28/2011	Theft	FALSE	ELEC
+231	Jefferson Center for Mental Health	CO	Healthcare Provider	546	2/7/2011	Theft	FALSE	HARD
+232	Integranetics	KY	Business Associate	18871	2/7/2011	Hacking/IT Incident	TRUE	ELEC
+233	"Ortho Montana, PSC"	MT	Healthcare Provider	37000	2/8/2011	Theft	FALSE	ELEC
+234	Cancer Care Northwest P.S.	WA	Healthcare Provider	3100	2/9/2011	Theft	FALSE	HARD
+235	Saint Louis University	MO	Healthcare Provider	800	2/10/2011	Hacking/IT Incident	FALSE	ELEC
+236	GRM Information Management Services	NJ	Business Associate	1700000	2/11/2011	Theft	TRUE	OELE
+237	Long Beach Memorial Medical Center	CA	Healthcare Provider	2250	2/11/2011	Unauthorized Access/Disclosure	FALSE	OTHE
+238	Texas Health Harris Methodist Hospital Azle	TX	Healthcare Provider	9922	2/13/2011	"Loss, Theft"	FALSE	OELE
+239	Business Express	FL	Business Associate	2700	2/15/2011	Theft	TRUE	OELE
+240	Xforia Web Services	WV	Business Associate	3655	2/16/2011	Unauthorized Access/Disclosure	TRUE	ELEC
+241	Mountain Vista Medical Center	AZ	Healthcare Provider	2291	2/21/2011	Loss	FALSE	OELE
+242	Departamento de Salud de Puerto Rico	PR	Healthcare Provider	2621	2/22/2011	Unknown	FALSE	ELEC
+243	Henry Ford Hospital	MI	Healthcare Provider	2777	2/23/2011	Loss	FALSE	OELE
+244	TriWest Healthcare Alliance Corp.	AZ	Business Associate	4500	3/1/2011	Unauthorized Access/Disclosure	TRUE	HARD
+245	Blue Cross and Blue Shield of Florida 	FL	Health Plan	7366	3/3/2011	Unknown	FALSE	OTHE
+246	"University Health Services, University of Massachusetts, Amherst"	MA	Healthcare Provider	942	3/7/2011	Unauthorized Access/Disclosure	FALSE	ELEC
+247	"Omnicare, Inc"	KY	Healthcare Provider	8845	3/10/2011	Theft	FALSE	ELEC
+248	"JEFFREY J. SMITH, MD"	OK	Healthcare Provider	600	3/16/2011	Theft	FALSE	OELE
+249	"Coventry Health Care, Inc."	MD	Business Associate	765	3/18/2011	Unauthorized Access/Disclosure	TRUE	HARD
+250	Texas Health Arlington Memorial Hospital	TX	Healthcare Provider	654	3/23/2011	Unknown	FALSE	ELEC
+251	NYU School of Medicine Faculty Group Practice	NY	Healthcare Provider	670	3/28/2011	Theft	FALSE	ELEC
+252	"Rape & Brooks Orthodontics, P.C."	AL	Healthcare Provider	20744	3/28/2011	Theft	FALSE	OELE
+253	Clarksburg - Louis A. Johnson VA Medical Center	WV	Healthcare Provider	1470	3/30/2011	Unauthorized Access/Disclosure	FALSE	HARD
+254	County of Los Angeles	CA	Healthcare Provider	667	3/30/2011	Theft	FALSE	ELEC
+255	EISENHOWER MEDICAL CENTER	CA	Healthcare Provider	514330	3/30/2011	Theft	FALSE	ELEC
+256	Trisha Elaine Cordova	AK	Business Associate	1700	3/31/2011	Theft	TRUE	ELEC
+257	"Park Avenue Obstetrics & Gynecology, PC"	AZ	Healthcare Provider	635	3/31/2011	Theft	FALSE	OELE
+258	"Brian J Daniels D.D.S.,Paul R Daniels D.D.S."	AZ	Business Associate	10000	4/4/2011	Theft	TRUE	OELE
+259	Hartford Hospital	CT	Business Associate	93500	4/5/2011	Theft	TRUE	OTHE
+260	"Patient Care Services at Saint Francis, Inc."	OK	Healthcare Provider	84000	4/6/2011	Theft	FALSE	ELEC
+261	Union Security Insurance Company	MO	Health Plan	935	4/8/2011	Unauthorized Access/Disclosure	FALSE	OTHE
+262	Oklaholma State Dept. of Health	OK	Healthcare Provider	132940	4/11/2011	Theft	FALSE	SEMI
+263	Aiken Community Based Outpatient Clinic	SC	Healthcare Provider	2717	4/12/2011	Improper Disposal	FALSE	HARD
+264	IBM	NY	Business Associate	1900000	4/14/2011	Unknown	TRUE	OTHE
+265	SW General Inc	AZ	Healthcare Provider	566	4/14/2011	Theft	FALSE	HARD
+266	Fairview Health Services	MN	Healthcare Provider	1215	4/14/2011	Loss	FALSE	HARD
+267	"Healthcare Solutions Team, LLC"	IL	Business Associate	675	4/19/2011	Unauthorized Access/Disclosure	TRUE	OTHE
+268	Community Action partnership of Natrona County	WY	Healthcare Provider	15000	4/20/2011	Theft	FALSE	ELEC
+269	"Keith & Fisher, DDS, PA"	NC	Healthcare Provider	6000	4/21/2011	Hacking/IT Incident	FALSE	ELEC
+270	MacNeal Hospital	IL	Healthcare Provider	845	4/25/2011	Hacking/IT Incident	FALSE	OELE
+271	West Lake Hospital 	IL	Healthcare Provider	686	4/25/2011	Hacking/IT Incident	FALSE	OELE
+272	Phoenix Health Plan	AZ	Health Plan	9393	4/25/2011	Hacking/IT Incident	FALSE	OELE
+273	MacNeal Physician Group	IL	Healthcare Provider	532	4/25/2011	Hacking/IT Incident	FALSE	OELE
+274	Genesis Clinical Laboratory	IL	Healthcare Provider	1070	4/25/2011	Hacking/IT Incident	FALSE	OELE
+275	Knox Community Hospital	OH	Healthcare Provider	500	4/28/2011	Improper Disposal	FALSE	OTHE
+276	Speare Memorial Hospital	NH	Healthcare Provider	5960	5/2/2011	Theft	FALSE	ELEC
+277	Methodist Charlton Medical Center	TX	Healthcare Provider	1500	5/5/2011	Theft	FALSE	ELEC
+278	Drs Edalji and Komer	MA	Healthcare Provider	563	5/6/2011	Theft	FALSE	ELEC
+279	Reid Hospital & Health Care Services	IN	Healthcare Provider	22001	5/6/2011	Theft	FALSE	ELEC
+280	Union Security Insurance Company	MO	Health Plan	850	5/9/2011	Unauthorized Access/Disclosure	FALSE	OTHE
+281	Indiana Regional Medical Center	PA	Healthcare Provider	1388	5/9/2011	Theft	FALSE	HARD
+282	"MMM Healthcare, Inc."	PR	Health Plan	32390	5/9/2011	Theft	FALSE	ELEC
+283	PMC Medicare Choice	PR	Health Plan	24361	5/9/2011	Theft	FALSE	ELEC
+284	CVS CAREMARK	AZ	Healthcare Provider	654	5/11/2011	"Theft, Unauthorized Access/Disclosure"	FALSE	HARD
+285	CENTER FOR ARTHRITIS & RHEUMATIC DISEASES	FL	Healthcare Provider	8000	5/11/2011	Theft	FALSE	HARD
+286	"Robert B. Miller, MD"	CA	Healthcare Provider	620	5/17/2011	Theft	FALSE	ELEC
+287	Imaging Center of Garland	TX	Healthcare Provider	1031	5/19/2011	Improper Disposal	FALSE	OTHE
+288	St. Mary's Hospital for Children	NY	Business Associate	550	5/19/2011	Theft	TRUE	HARD
+289	"Cahaba Government Benefit Administrators, LLC"	AL	Business Associate	13412	5/25/2011	Unauthorized Access/Disclosure	TRUE	HARD
+290	VA Caribbean Healthcare System	PR	Healthcare Provider	6006	5/26/2011	Theft	FALSE	HARD
+291	Agent Benefits Corporation	MI	Business Associate	11387	5/26/2011	"Hacking/IT Incident, Unauthorized Access/Disclosure"	TRUE	ELEC
+292	Spartanburg Regional Healthcare System	SC	Business Associate	400000	5/27/2011	Theft	TRUE	ELEC
+293	Saint Joseph - Berea	KY	Healthcare Provider	1986	6/2/2011	"Loss, Theft"	FALSE	OELE
+294	Navos	WA	Health Plan	2700	6/8/2011	Unknown	FALSE	HARD
+295	Lower Umpqua Hospital	OR	Business Associate	17000	6/8/2011	Theft	TRUE	OELE
+296	"Metropolitan Community Health Services, Inc."	NC	Healthcare Provider	1263	6/9/2011	Unknown	FALSE	EM
+297	TUBA CITY REGIONAL HEALTH CARE CORPORATION	AZ	Healthcare Provider	2000	6/9/2011	"Improper Disposal, Loss"	FALSE	HARD
+298	"FOOTHILLS NEPHROLOGY, PC"	SC	Healthcare Provider	1280	6/9/2011	Theft	FALSE	OELE
+299	Fidelity National Technology Imaging (FNTI)	CA	Business Associate	1192	6/10/2011	Loss	TRUE	HARD
+300	New River Health Association	WV	Healthcare Provider	950	6/16/2011	Unauthorized Access/Disclosure	FALSE	HARD
+301	HealthCare Partners	CA	Healthcare Provider	15677	6/16/2011	Theft	FALSE	ELEC
+302	"Gene S. J. Liaw, MD. PS"	WA	Healthcare Provider	1105	6/17/2011	Theft	FALSE	OELE
+303	Blue Cross and Blue Shield of Florida 	FL	Health Plan	3463	6/17/2011	Unauthorized Access/Disclosure	FALSE	OTHE
+304	"NOL, LLC d/b/a Premier Radiology"	TN	Healthcare Provider	810	6/22/2011	Theft	FALSE	ELEC
+305	"Advanced Diagnostic Imaging, P.C."	TN	Healthcare Provider	705	6/22/2011	Theft	FALSE	ELEC
+306	University of Missouri Health Care	MO	Healthcare Provider	1288	6/23/2011	Unknown	FALSE	HARD
+307	"Area Agency on Aging, Ohio District 5"	OH	Business Associate	78042	6/27/2011	Theft	TRUE	ELEC
+308	"Gail Gillespie and Associates, LLC"	LA	Healthcare Provider	2000	6/28/2011	Theft	FALSE	OELE
+309	Health Plan of San Mateo	CA	Health Plan	694	6/29/2011	Unauthorized Access/Disclosure	FALSE	HARD
+310	Department of Personnel and Administration	CO	Business Associate	3589	6/29/2011	Theft	TRUE	OTHE
+311	Yanez Dental Corporation	CA	Business Associate	10190	7/4/2011	Theft	TRUE	ELEC
+312	Jackson Health System	FL	Healthcare Provider	1562	7/8/2011	Unauthorized Access/Disclosure	FALSE	OELE
+313	The Mount Sinai Hospital	NY	Healthcare Provider	712	7/8/2011	Theft	FALSE	ELEC
+314	Troy Regional Medical Center	AL	Healthcare Provider	880	7/8/2011	Unauthorized Access/Disclosure	FALSE	HARD
+315	AssureCare Risk Management	IL	Business Associate	5000	7/11/2011	Hacking/IT Incident	TRUE	ELEC
+316	Dr Axel Velez	PR	Healthcare Provider	2800	7/13/2011	Theft	FALSE	ELEC
+317	"DeKalb Medical Center, Inc. d/b/a DeKalb Medical Hillandale"	GA	Healthcare Provider	7500	7/15/2011	Theft	FALSE	HARD
+318	Beth Israel Deaconess Medical Center	MA	Healthcare Provider	2021	7/19/2011	Hacking/IT Incident	FALSE	ELEC
+319	"Assurecare Risk Management, Inc."	IL	Business Associate	25330	7/21/2011	Unauthorized Access/Disclosure	TRUE	ELEC
+320	"Andersen Air Force Base, Guam"	VA	Healthcare Provider	700	7/22/2011	Improper Disposal	FALSE	HARD
+321	"RxAmerica, a subsidiary of CVS Caremark"	TX	Business Associate	4573	7/22/2011	Unauthorized Access/Disclosure	TRUE	HARD
+322	RxAmerica LLC	UT	Business Associate	1378	7/22/2011	Unauthorized Access/Disclosure	TRUE	HARD
+323	Health Care Service Corporation	IL	Health Plan	501	7/28/2011	Theft	FALSE	HARD
+324	University of Kentucky - UK HealthCare	KY	Healthcare Provider	3604	7/28/2011	Theft	FALSE	ELEC
+325	"Austin Center for Therapy and Assessment, LLC"	TX	Healthcare Provider	1870	7/28/2011	Theft	FALSE	ELEC
+326	Treatment Services Northwest	OR	Healthcare Provider	1200	7/29/2011	Theft	FALSE	ELEC
+327	Mills-Peninsula Health Services	CA	Healthcare Provider	1500	7/29/2011	Unauthorized Access/Disclosure	FALSE	HARD
+328	Brigham and Women's Hospital and Faulkner Hospital 	MA	Healthcare Provider	638	8/3/2011	Theft	FALSE	OELE
+329	Med Assets	NJ	Business Associate	8795	8/8/2011	Theft	TRUE	OELE
+330	Washington State Department of Social and Health Services	WA	Health Plan	3950	8/9/2011	Unauthorized Access/Disclosure	FALSE	HARD
+331	The Neurological Institute of Savannah & Center for Spine	GA	Healthcare Provider	63425	8/15/2011	Theft	FALSE	OELE
+332	Accuprint 	PR	Business Associate	5848	8/15/2011	Theft	TRUE	OTHE
+333	Texas Health Partners	TX	Business Associate	10345	8/17/2011	Theft	TRUE	ELEC
+334	Capron Rescue Squad District	IL	Healthcare Provider	815	8/18/2011	Unauthorized Access/Disclosure	FALSE	ELEC
+335	MedAssets	NJ	Business Associate	32008	8/18/2011	Theft	TRUE	OELE
+336	Lexington VAMC	KY	Healthcare Provider	1432	8/25/2011	Theft	FALSE	OELE
+337	"SpaMed Solutions, LLC, Edward McMenamin President,"	NJ	Business Associate	3000	8/28/2011	"Theft, Unauthorized Access/Disclosure"	TRUE	OELE
+338	"HEALTH RESEARCH INSTITUTE, INC., PFEIFFER TREATMENT CENTER"	IL	Healthcare Provider	2000	8/29/2011	Theft	FALSE	ELEC
+339	"Multi-Speciality Collection Services, LLC"	CA	Business Associate	19651	8/29/2011	Unauthorized Access/Disclosure	TRUE	OTHE
+340	"Muir Orthopaedic Specialists, A Medical Group Inc."	CA	Healthcare Provider	1800	9/7/2011	Theft	FALSE	HARD
+341	NEA Baptist Clinic	AR	Healthcare Provider	3116	9/7/2011	Hacking/IT Incident	FALSE	ELEC
+342	Jonathan Noel MD	IN	Healthcare Provider	2059	9/8/2011	Theft	FALSE	OELE
+343	Texas Health and Human Services Commission	TX	Health Plan	1696	9/9/2011	Theft	FALSE	ELEC
+344	Living Healthy Community Clinic	WI	Business Associate	3000	9/13/2011	Hacking/IT Incident	TRUE	ELEC
+345	Centro de Ortodoncia Inc.	PR	Healthcare Provider	2000	9/13/2011	Theft	FALSE	HARD
+346	"John T. Melvin, M.D.& Associates"	TX	Healthcare Provider	2541	9/14/2011	Theft	FALSE	HARD
+347	"Diversified Resources, Inc."	GA	Healthcare Provider	863	9/15/2011	Theft	FALSE	ELEC
+348	VA Gulf Coast Veterans Health Care System	MS	Healthcare Provider	1797	9/20/2011	Theft	FALSE	HARD
+349	Freda J Bowman  MD PA	TX	Healthcare Provider	1300	9/20/2011	"Hacking/IT Incident, Unauthorized Access/Disclosure"	FALSE	ELEC
+350	"Bonney Lake Medical Center and Mythili R. Ramachandran, MD"	WA	Healthcare Provider	2367	9/21/2011	Theft	FALSE	MAG
+351	"Benefits Administration Services, Inc."	VA	Business Associate	4000	9/22/2011	Loss	TRUE	OELE
+352	VA Illiana Health Care System	IL	Healthcare Provider	518	9/23/2011	Loss	FALSE	HARD
+353	Health Texas Provider Network	TX	Healthcare Provider	1259	9/23/2011	Theft	FALSE	ELEC
+354	"AllOne Health Management Solutions, Inc."	PA	Business Associate	507	9/23/2011	"Theft, Unauthorized Access/Disclosure"	TRUE	SEMI
+355	NYU Hospital for Joint Diseases Inventory Management Department	NY	Healthcare Provider	2600	9/26/2011	Theft	FALSE	HARD
+356	FIRST PRIORITY LIFE INSURANCE COMPANY	PA	Business Associate	579	9/28/2011	"Theft, Unauthorized Access/Disclosure"	TRUE	HARD
+357	"Summit Medical Group, PLLC"	TN	Healthcare Provider	731	9/28/2011	Theft	FALSE	HARD
+358	MAPFRE Life	PR	Health Plan	2209	9/29/2011	Theft	FALSE	OTHE
+359	Futurity First Insurance Group	CT	Business Associate	1631	10/3/2011	Loss	TRUE	OELE
+360	Henry Ford Health System	MI	Healthcare Provider	520	10/3/2011	Theft	FALSE	ELEC
+361	Indiana University	IN	Healthcare Provider	3266	10/4/2011	Theft	FALSE	ELEC
+362	"Adult & Pediatric Dermatology, PC"	MA	Healthcare Provider	2200	10/7/2011	Theft	FALSE	OELE
+363	The Nemours Foundation	FL	Healthcare Provider	1055489	10/7/2011	Loss	FALSE	OTHE
+364	"Thomas J O'Laughlin, MD"	CA	Business Associate	700	10/7/2011	"Theft, Unauthorized Access/Disclosure"	TRUE	HARD
+365	"InStep Foot Clinic, P.A."	MN	Healthcare Provider	2600	10/11/2011	Theft	FALSE	ELEC
+366	"Lahey Clinic Hospital, Inc."	MA	Healthcare Provider	599	10/11/2011	Theft	FALSE	ELEC
+367	Futurity First Insurance Group	CT	Business Associate	3994	10/11/2011	Theft	TRUE	OTHE
+368	Florida Hospital	FL	Healthcare Provider	12784	10/13/2011	Unauthorized Access/Disclosure	FALSE	ELEC
+369	"Thomas Jefferson University Hospitals, Inc."	PA	Healthcare Provider	3150	10/14/2011	Theft	FALSE	OTHE
+370	Lankenau Medical Center	PA	Healthcare Provider	500	10/17/2011	Theft	FALSE	OTHE
+371	"Spectrum Health Ssytems, Inc.  "	MA	Healthcare Provider	14750	10/20/2011	Theft	FALSE	ELEC
+372	Conway Regional Medical Center	AR	Healthcare Provider	1472	10/21/2011	Loss	FALSE	OTHE
+373	"HITS Scanning Solutions, Inc."	MO	Business Associate	7059	10/22/2011	Theft	TRUE	OTHE
+374	Stone Oak Urgent Care & Family Practice	TX	Business Associate	6672	10/24/2011	"Loss, Theft"	TRUE	ELEC
+375	Indiana University School of Optometry	IN	Healthcare Provider	757	10/25/2011	Theft	FALSE	ELEC
+376	"Brevard Emergency Services, P.A."	FL	Healthcare Provider	2200	10/25/2011	Theft	FALSE	HARD
+377	Morris Heights Health Center	NY	Healthcare Provider	927	10/27/2011	Theft	FALSE	ELEC
+378	Thresholds Inc.	MI	Business Associate	1100	10/28/2011	Theft	TRUE	HARD
+379	"Pitney Bowes Management Services, Inc."	CT	Business Associate	1089	10/28/2011	Theft	TRUE	ELEC
+380	Premier Imaging	NC	Healthcare Provider	551	10/28/2011	Unknown	FALSE	HARD
+381	"Julie A. Kennedy, D.M.D., P.A."	FL	Healthcare Provider	2900	10/31/2011	Theft	FALSE	ELEC
+382	"KCI USA, Inc."	TX	Healthcare Provider	567	10/31/2011	Theft	FALSE	OELE
+383	Lebanon Internal Medicine Associates	PA	Healthcare Provider	55000	11/2/2011	Improper Disposal	FALSE	ELEC
+384	St. Joseph Medical Center	MD	Healthcare Provider	5000	11/3/2011	Theft	FALSE	HARD
+385	Science Applications International Corporation (SA	VA	Business Associate	4900000	11/4/2011	Loss	TRUE	OTHE
+386	UCLA Health System	CA	Healthcare Provider	2761	11/4/2011	Theft	FALSE	OELE
+387	Logan County Emergeny Ambulance Service Authority	WV	Healthcare Provider	12563	11/8/2011	"Loss, Theft"	FALSE	ELEC
+388	"Amerigroup Community Care of New Mexico, Inc"	NM	Health Plan	1537	11/13/2011	Theft	FALSE	HARD
+389	"Mid Continent Credit Services, Inc."	KS	Business Associate	8275	11/14/2011	Theft	TRUE	OTHE
+390	Sutter Medical Foundation	AL	Healthcare Provider	943434	11/17/2011	Theft	FALSE	ELEC
+391	Medcenter One	ND	Healthcare Provider	650	11/17/2011	Theft	FALSE	ELEC
+392	Dallas County Hospital District dba Parkland Health & Hospital System	TX	Healthcare Provider	2464	11/17/2011	Unauthorized Access/Disclosure	FALSE	ELEC
+393	University of Kentucky UK HealthCare	KY	Healthcare Provider	878	11/23/2011	Loss	FALSE	OELE
+394	State of Tennessee Sponsored Group Health Plan	TN	Health Plan	1770	11/28/2011	Unauthorized Access/Disclosure	FALSE	HARD
+395	Cleveland Clinic Florida	FL	Healthcare Provider	772	12/1/2011	Loss	FALSE	OTHE
+396	"Jay C. Platt, DDS"	IN	Healthcare Provider	10705	12/5/2011	Theft	FALSE	OTHE
+397	Rite Aid Corporation 	PA	Healthcare Provider	2900	12/7/2011	Other	FALSE	HARD
+398	Blue Vantage Group	NY	Business Associate	7226	12/9/2011	Unauthorized Access/Disclosure	TRUE	ELEC
+399	Nation Wise Machine Buyers	IL	Business Associate	2000	12/9/2011	Improper Disposal	TRUE	HARD
+400	University of Nebraska Medical Center	NE	Healthcare Provider	611	12/9/2011	Theft	FALSE	HARD
+401	Roberts S. Smith M.D. Inc.	GA	Healthcare Provider	17000	12/13/2011	Theft	FALSE	ELEC
+402	"Paul C. Brown, MD, PS"	WA	Healthcare Provider	4693	12/15/2011	Theft	FALSE	OTHE
+403	Molina Healthcare of California	CA	Health Plan	11081	12/17/2011	Other	FALSE	HARD
+404	Aegis Sciences Corporation	TN	Healthcare Provider	2185	12/21/2011	Theft	FALSE	OELE
+405	"Soundpath Health, Inc"	WA	Health Plan	7581	12/23/2011	Theft	FALSE	ELEC
+406	Concentra Health	TX	Healthcare Provider	870	12/28/2011	Theft	FALSE	ELEC
+407	Sleep HealthCenters LLC	MA	Healthcare Provider	2988	12/28/2011	Theft	FALSE	ELEC
+408	Smile Designs	FL	Healthcare Provider	1670	1/6/2012	Theft	FALSE	ELEC
+409	Alamance Caswell Local Management Entity	NC	Business Associate	50000	1/10/2012	"Other, Unauthorized Access/Disclosure"	TRUE	ELEC
+410	"CardioNet, Inc"	PA	Healthcare Provider	1300	1/10/2012	Theft	FALSE	ELEC
+411	RightNow Technologies	MT	Business Associate	2700	1/11/2012	Unauthorized Access/Disclosure	TRUE	OTHE
+412	"WageWorks, Inc."	CA	Business Associate	1700	1/13/2012	Other	TRUE	HARD
+413	Foundation Medical Partners	NH	Healthcare Provider	771	1/16/2012	Theft	FALSE	HARD
+414	Kansas Department on Aging	KS	Healthcare Provider	7757	1/19/2012	Theft	FALSE	ELEC
+415	Delta Dental of California	CA	Health Plan	11646	1/19/2012	Other	FALSE	HARD
+416	Muskogee Regional Medical Center	OK	Health Plan	844	1/20/2012	Loss	FALSE	OTHE
+417	"ACS, Affiliated Computer Services, Inc., A Xerox Company"	VA	Business Associate	1444	1/23/2012	"Other, Unauthorized Access/Disclosure"	TRUE	HARD
+418	"Oldendorf Medical Services, PLLC"	NY	Healthcare Provider	549	1/24/2012	Theft	FALSE	ELEC
+419	St.Vincent Physician Network	IN	Healthcare Provider	1423	1/26/2012	"Theft, Unauthorized Access/Disclosure"	FALSE	HARD
+420	Flex Physical Therapy	WA	Healthcare Provider	3100	1/27/2012	Theft	FALSE	ELEC
+421	Metro Community Provider Network	CO	Healthcare Provider	3200	1/27/2012	"Hacking/IT Incident, Other"	FALSE	EM
+422	University of Miami 	FL	Healthcare Provider	1219	1/30/2012	Theft	FALSE	OELE
+423	UnitedHealth Group health plan single affiliated covered entity	MN	Health Plan	6678	2/1/2012	Other	FALSE	HARD
+424	"Triumph, LLC"	NC	Healthcare Provider	2000	2/1/2012	Theft	FALSE	ELEC
+425	Accretive Health	IL	Business Associate	14000	2/6/2012	Theft	TRUE	ELEC
+426	Loma Linda University Medical Center (LLUMC)	CA	Healthcare Provider	1366	2/8/2012	Other	FALSE	HARD
+427	"Affiliated Computer Services, Inc.  (ACS, Inc.) A Xerox Company"	NJ	Business Associate	1700	2/8/2012	Other	TRUE	OTHE
+428	"Medco Health Solutions, Inc."	NJ	Healthcare Provider	1287	2/13/2012	Theft	FALSE	HARD
+429	Lakeview Medical Center	WI	Healthcare Provider	698	2/14/2012	Theft	FALSE	ELEC
+430	"Goshen Health System, Inc."	IN	Healthcare Provider	660	2/14/2012	Hacking/IT Incident	FALSE	OTHE
+431	Georgetown University Hospital	DC	Healthcare Provider	1549	2/15/2012	Unauthorized Access/Disclosure	FALSE	HARD
+432	Motion Picture Industry Health Plans (MPI)	CA	Health Plan	703	2/15/2012	Theft	FALSE	OTHE
+433	Ochsner Health System	LA	Healthcare Provider	2088	2/20/2012	Loss	FALSE	OELE
+434	Dr. Trandinh	OR	Business Associate	2300	2/20/2012	"Theft, Unauthorized Access/Disclosure"	TRUE	ELEC
+435	"CardioNet, Inc."	PA	Healthcare Provider	728	2/27/2012	Theft	FALSE	ELEC
+436	"Beth Barrett Consulting, LLC"	NM	Business Associate	7000	2/28/2012	Theft	TRUE	ELEC
+437	"Catalyst Health Solutions, Inc."	MD	Business Associate	632	2/28/2012	Unauthorized Access/Disclosure	TRUE	OTHE
+438	"T&P CONSULTING, INC. D/B/A QUANTUM"	PR	Business Associate	7706	2/28/2012	Theft	TRUE	ELEC
+439	Lee Miller Rehabilitation Associates	MD	Healthcare Provider	10480	2/29/2012	Theft	FALSE	ELEC
+440	"Jeremaih J. Twomey, F.A.C.P., P.A."	TX	Business Associate	2559	3/2/2012	Theft	TRUE	OTHE
+441	Anchorage Community Mental Health Services Inc.	AK	Healthcare Provider	2743	3/3/2012	Unauthorized Access/Disclosure	FALSE	ELEC
+442	Robley Rex VA Medical Center 	KY	Healthcare Provider	1182	3/6/2012	Other	FALSE	HARD
+443	Indiana Internal Medicine Consultants	IN	Healthcare Provider	20000	3/9/2012	Theft	FALSE	ELEC
+444	"T & P Consulting, Inc. d/b/a Quantum Health Consulting"	PR	Business Associate	10000	3/12/2012	Theft	TRUE	OELE
+445	Quantum Health Consulting	PR	Business Associate	4645	3/12/2012	Theft	TRUE	ELEC
+446	Kern Medical Center 	CA	Healthcare Provider	1431	3/12/2012	Theft	FALSE	HARD
+447	"William F. DeLuca Jr., M.D."	NY	Healthcare Provider	577	3/13/2012	Theft	FALSE	ELEC
+448	Quantum Health Consulting	PR	Business Associate	7923	3/13/2012	Theft	TRUE	ELEC
+449	Advanced Clinical Research Institute	CA	Health Plan	875	3/14/2012	Theft	FALSE	HARD
+450	"T&P Consulting, INC DBA Quantum HC"	PR	Business Associate	7606	3/15/2012	Theft	TRUE	OELE
+451	Georgia Health Sciences University	GA	Healthcare Provider	513	3/15/2012	Theft	FALSE	ELEC
+452	"Baylor Heart and Vascular Center, LLP"	TX	Healthcare Provider	1972	3/16/2012	Theft	FALSE	OELE
+453	Chicago Musculoskeletal Institute/Metro Orthopedics	IL	Healthcare Provider	750	3/23/2012	Other	FALSE	ELEC
+454	"Caremark PCS Health, L.L.C. (formerly known as Caremark PCS Health, L.P.)"	IL	Business Associate	3482	3/23/2012	Other	TRUE	HARD
+455	Duke University Health System	NC	Healthcare Provider	1370	3/23/2012	Unauthorized Access/Disclosure	FALSE	OTHE
+456	St. Joseph's Medical Center	CA	Healthcare Provider	712	3/29/2012	Theft	FALSE	HARD
+457	CenterLight Healthcare	NY	Health Plan	642	4/3/2012	Unauthorized Access/Disclosure	FALSE	EM
+458	Lake Granbury Medicl Ceter	TX	Healthcare Provider	502	4/4/2012	Theft	FALSE	HARD
+459	County of Wayne Department of Personnel/Human Resources Benefits Administration Division	MI	Health Plan	1229	4/6/2012	Unauthorized Access/Disclosure	FALSE	EM
+460	St. Elizabeth's Medical Center	MA	Healthcare Provider	6831	4/6/2012	Loss	FALSE	HARD
+461	The Neighborhood Christian Clinic	AZ	Healthcare Provider	9565	4/9/2012	Loss	FALSE	OELE
+462	"AccentCare Home Health of California, Inc. Medicare # 057564    CA state License # 080000226"	CA	Healthcare Provider	1000	4/10/2012	Unauthorized Access/Disclosure	FALSE	EM
+463	HealthLOGIX	MI	Business Associate	555	4/10/2012	Unauthorized Access/Disclosure	TRUE	HARD
+464	David Charles Rish	CA	Business Associate	2000	4/10/2012	Theft	TRUE	OTHE
+465	Utah Department of Technology Services	UT	Business Associate	780000	4/11/2012	Hacking/IT Incident	TRUE	ELEC
+466	IU Medical Group	IN	Healthcare Provider	1000	4/12/2012	Improper Disposal	FALSE	HARD
+467	Rhinebeck Health Center/Center for Progressive Medicine	NY	Healthcare Provider	6745	4/12/2012	Theft	FALSE	ELEC
+468	Memorial Healthcare System	FL	Health Plan	9497	4/13/2012	Other	FALSE	OTHE
+469	"Roy E. Gondo, M.D."	WA	Healthcare Provider	2100	4/13/2012	Theft	FALSE	ELEC
+470	"DRD Management, Inc. D/B/A DRD Knoxville Medical Clinic - Central"	TX	Healthcare Provider	1000	4/16/2012	Improper Disposal	FALSE	HARD
+471	Emory Healthcare	GA	Healthcare Provider	315000	4/18/2012	"Other, Unknown"	FALSE	OTHE
+472	Desert AIDS Project	CA	Healthcare Provider	4400	4/20/2012	Theft	FALSE	ELEC
+473	University of Arkansas for Medical Sciences	AR	Healthcare Provider	7121	4/20/2012	Unauthorized Access/Disclosure	FALSE	OTHE
+474	"TLC DENTAL DANIA, LLC"	FL	Healthcare Provider	750	4/23/2012	Theft	FALSE	HARD
+475	South Carolina Department of Health and Human Services	SC	Health Plan	228435	4/24/2012	Unauthorized Access/Disclosure	FALSE	EM
+476	Oregon Health Authority	OR	Healthcare Provider	550	4/26/2012	Theft	FALSE	HARD
+477	SHIELDS For Families 	CA	Healthcare Provider	961	4/26/2012	Theft	FALSE	ELEC
+478	"Safe Ride Services, Inc"	AZ	Healthcare Provider	42000	5/1/2012	"Hacking/IT Incident, Unauthorized Access/Disclosure"	FALSE	ELEC
+479	IntraCare North Hospital	TX	Healthcare Provider	750	5/3/2012	Theft	FALSE	HARD
+480	"Oakland Vision Services, PC"	MI	Healthcare Provider	3000	5/3/2012	Hacking/IT Incident	FALSE	ELEC
+481	Baptist Health System	AL	Healthcare Provider	1655	5/4/2012	Improper Disposal	FALSE	HARD
+482	University of Houston for UH College of Optometry	TX	Healthcare Provider	7000	5/8/2012	"Hacking/IT Incident, Unauthorized Access/Disclosure"	FALSE	ELEC
+483	Rite Aid Store 1343	WV	Healthcare Provider	2905	5/10/2012	Theft	FALSE	HARD
+484	Iowa Department of Human Services	IA	Health Plan	3000	5/11/2012	Improper Disposal	FALSE	HARD
+485	Hogan Services Inc. Health Care Premium Plan	MO	Health Plan	1134	5/11/2012	Unauthorized Access/Disclosure	FALSE	EM
+486	"Family HealthServices Minnesota, P.A."	MN	Healthcare Provider	4000	5/14/2012	Theft	FALSE	ELEC
+487	St. Mary Medical Center	CA	Healthcare Provider	3900	5/14/2012	Loss	FALSE	OELE
+488	Our Lady of the Lake Regional Medical Center	LA	Healthcare Provider	17000	5/18/2012	"Loss, Theft"	FALSE	ELEC
+489	UnitedHealth Group health plan single affiliated covered entity	MN	Health Plan	19100	5/18/2012	Unauthorized Access/Disclosure	FALSE	OTHE
+490	West Dermatology	CA	Healthcare Provider	1900	5/18/2012	Theft	FALSE	OTHE
+491	Duke University Health System	NC	Healthcare Provider	591	5/18/2012	Unauthorized Access/Disclosure	FALSE	OTHE
+492	Ameritas Life Insurance Corp. 	NE	Health Plan	3000	5/21/2012	Theft	FALSE	ELEC
+493	Children's Hospital Boston	MA	Healthcare Provider	2159	5/22/2012	Theft	FALSE	ELEC
+494	"Data Image, Inc."	OH	Business Associate	15000	5/22/2012	Unauthorized Access/Disclosure	TRUE	OTHE
+495	Physician's Automated Laboratory	CA	Healthcare Provider	745	5/23/2012	Theft	FALSE	HARD
+496	"Phoebe Putney Memorial Hospital, Inc. "	GA	Healthcare Provider	12937	5/24/2012	Theft	FALSE	ELEC
+497	Independence Physical Therapy	CT	Healthcare Provider	925	5/25/2012	Theft	FALSE	ELEC
+498	Titus Regional Medical Center	TX	Healthcare Provider	5700	5/26/2012	"Loss, Unknown"	FALSE	ELEC
+499	Titus Regional Medical Center	TX	Healthcare Provider	500	5/26/2012	Theft	FALSE	OTHE
+500	Lutheran Community Services Northwest	WA	Healthcare Provider	756	5/29/2012	Theft	FALSE	OELE
+501	"Volunteer State Health Plan, Inc. "	TN	Health Plan	1102	5/31/2012	Loss	FALSE	HARD
+502	Charlie Norwood VA Medical Center	GA	Healthcare Provider	824	6/4/2012	Loss	FALSE	OELE
+503	PrevMED	MD	Business Associate	1444	6/4/2012	Theft	TRUE	ELEC
+504	"Metcare of Florida, Inc."	FL	Healthcare Provider	2557	6/4/2012	Theft	FALSE	OELE
+505	"Robert Witham, MD, FACP"	OR	Healthcare Provider	11136	6/6/2012	Theft	FALSE	ELEC
+506	Memorial Sloan-Kettering Cancer Center	NY	Healthcare Provider	568	6/8/2012	Theft	FALSE	OELE
+507	"Gessler Clinic, P.A."	FL	Healthcare Provider	1409	6/14/2012	Theft	FALSE	HARD
+508	University of Kentucky HealthCare	KY	Healthcare Provider	4490	6/19/2012	Theft	FALSE	ELEC
+509	Wolf & Yun	KY	Healthcare Provider	824	6/22/2012	Theft	FALSE	ELEC
+510	Karen Kietzman	MT	Healthcare Provider	708	6/22/2012	Theft	FALSE	OELE
+511	"Bruce G. Peller, DMD, PA"	NC	Healthcare Provider	9953	6/25/2012	Unauthorized Access/Disclosure	FALSE	ELEC
+512	"Sharon L. Rogers, Ph.D., ABPP"	TX	Healthcare Provider	585	7/3/2012	Theft	FALSE	ELEC
+513	Health Texas Provider Network - Cardiovascular Consultants of North Texas	TX	Healthcare Provider	2462	7/5/2012	Unauthorized Access/Disclosure	FALSE	ELEC
+514	SwedishAmerican Health System	IL	Healthcare Provider	1500	7/12/2012	Theft	FALSE	HARD
+515	"Patterson Dental, Inc."	MN	Business Associate	2533	7/13/2012	"Loss, Unauthorized Access/Disclosure, Unknown"	TRUE	OELE
+516	Visiting Nurse Services of Iowa	IA	Healthcare Provider	1298	7/16/2012	Theft	FALSE	HARD
+517	Molalla Family Dental	OR	Healthcare Provider	4354	7/16/2012	"Hacking/IT Incident, Other, Unauthorized Access/Disclosure"	FALSE	ELEC
+518	Pamlico Medical Equipment LLC	NC	Healthcare Provider	2917	7/17/2012	Loss	FALSE	OELE
+519	Beth Israel Deaconess Medical Center	MA	Healthcare Provider	3900	7/20/2012	Theft	FALSE	ELEC
+520	NYU School of Medicine Faculty Group Practice	NY	Healthcare Provider	8488	7/23/2012	Theft	FALSE	ELEC
+521	"The Surgeons of Lake County, LLC"	IL	Healthcare Provider	7067	7/25/2012	Other	FALSE	ELEC
+522	Kindred Healthcare Inc d/b/a Kindred Transitional Care and Rehabilitation-Sellersburg	IN	Healthcare Provider	1504	7/25/2012	Theft	FALSE	OTHE
+523	Jeffrey Paul Edelstein M.D.	AZ	Healthcare Provider	4800	7/27/2012	Theft	FALSE	ELEC
+524	Northwestern Memorial Hospital	IL	Healthcare Provider	4211	7/27/2012	Theft	FALSE	OELE
+525	Walgreen Co.	IL	Healthcare Provider	1240	7/30/2012	Theft	FALSE	HARD
+526	EMC	CT	Business Associate	7461	7/30/2012	Theft	TRUE	ELEC
+527	Oregon Health & Science University	OR	Healthcare Provider	702	7/31/2012	Theft	FALSE	OTHE
+528	Stanford Hospital & Clinics and School of Medicine	CA	Healthcare Provider	2300	8/3/2012	Theft	FALSE	ELEC
+529	Harris County Hospital District	TX	Healthcare Provider	2875	8/3/2012	Theft	FALSE	ELEC
+530	"Siemens Medical Solutions, USA"	PA	Business Associate	66601	8/10/2012	Theft	TRUE	ELEC
+531	TEMPLE COMMUNITY HOSPITAL	CA	Healthcare Provider	603	8/15/2012	Theft	FALSE	ELEC
+532	Memorial Healthcare System	FL	Healthcare Provider	105646	8/16/2012	Theft	FALSE	ELEC
+533	"Liberty Resources, Inc."	PA	Healthcare Provider	3183	8/17/2012	Theft	FALSE	ELEC
+534	The University of Texas MD Anderson Cancer Center	TX	Healthcare Provider	2264	8/17/2012	Loss	FALSE	OELE
+535	Central States Southeast and Siouthwest Areas Health & Welfare Fund	IL	Health Plan	754	8/21/2012	"Other, Unauthorized Access/Disclosure"	FALSE	HARD
+536	LANA MEDICAL CARE	FL	Healthcare Provider	500	8/28/2012	Theft	FALSE	ELEC
+537	"Cancer Care Group, P.C."	IN	Healthcare Provider	55000	8/28/2012	Theft	FALSE	OELE
+538	Tricounty Behavioral Health Clinic	GA	Healthcare Provider	4000	8/31/2012	Theft	FALSE	ELEC
+539	Sierra Plastic Surgery	NV	Healthcare Provider	800	9/5/2012	"Hacking/IT Incident, Unauthorized Access/Disclosure"	FALSE	ELEC
+540	"Charlotte Clark-Neitzel, MD"	WA	Healthcare Provider	942	9/7/2012	Theft	FALSE	ELEC
+541	University of Miami	FL	Healthcare Provider	64846	9/7/2012	"Other, Unauthorized Access/Disclosure"	FALSE	HARD
+542	University of New Mexico Health Sciences Center	NM	Healthcare Provider	2365	9/12/2012	Hacking/IT Incident	FALSE	ELEC
+543	"Valley Plastic Surgery, P.C."	VA	Healthcare Provider	4873	9/13/2012	Theft	FALSE	OELE
+544	"Ecco Health, LLC"	NV	Business Associate	5713	9/14/2012	Loss	TRUE	OELE
+545	"BHcare, Inc"	CT	Healthcare Provider	5827	9/14/2012	Theft	FALSE	OELE
+546	The Feinstein Institute for Medical Research	NY	Healthcare Provider	13000	9/14/2012	Theft	FALSE	ELEC
+547	"St. Therese Medical Group, Inc"	CA	Healthcare Provider	3031	9/17/2012	Theft	FALSE	ELEC
+548	"Cabinet for Health and Family Services, Department for Community Based Services (Protection and Permanency)"	KY	Health Plan	2500	9/19/2012	Unauthorized Access/Disclosure	FALSE	EM
+549	"PST Services, Inc"	GA	Business Associate	13074	10/8/2012	Improper Disposal	TRUE	HARD
+550	"Apria Healthcare, Inc."	CA	Healthcare Provider	65700	10/10/2012	Theft	FALSE	ELEC
+551	"Alexander J. Tikhtman, M.D."	KY	Healthcare Provider	2376	10/12/2012	Theft	FALSE	OELE
+552	Gulf Coast Health Care Services Inc	FL	Healthcare Provider	13000	10/15/2012	"Hacking/IT Incident, Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+553	"Blount Memorial Hospital, Inc"	TN	Healthcare Provider	27799	10/17/2012	Theft	FALSE	ELEC
+554	"Alere Home Monitoring, Inc"	CA	Healthcare Provider	116506	10/18/2012	Theft	FALSE	ELEC
+555	"Coastal home Respiratory, LLP"	GA	Healthcare Provider	3440	10/18/2012	Theft	FALSE	OTHE
+556	"Philip P Corneliuson, DDS, INC."	CA	Healthcare Provider	980	10/22/2012	Theft	FALSE	ELEC
+557	"First Step Counseling, Inc."	NJ	Healthcare Provider	638	10/23/2012	Theft	FALSE	HARD
+558	"Logan Community Resources, Inc."	IN	Healthcare Provider	2900	10/23/2012	Hacking/IT Incident	FALSE	ELEC
+559	CVS Caremark	RI	Healthcare Provider	955	10/26/2012	Theft	FALSE	HARD
+560	Memorial Hospital	OH	Healthcare Provider	500	10/29/2012	Improper Disposal	FALSE	HARD
+561	QUANTERION SOLUTIONS INC	NY	Business Associate	1017	11/1/2012	Theft	TRUE	ELEC
+562	"University of Illinois, College of Nursing"	IL	Business Associate	508	11/2/2012	Theft	TRUE	HARD
+563	Miami Beach Healthcare Group Ltd. dba Aventura Hospital and Medical Center	FL	Healthcare Provider	2560	11/5/2012	Theft	FALSE	ELEC
+564	"WYATT DENTAL GROUP, LLC"	LA	Healthcare Provider	10271	11/5/2012	"Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+565	Women & Infants Hospital of Rhode Island	RI	Healthcare Provider	14004	11/5/2012	Loss	FALSE	OTHE
+566	Memorial Health System	CO	Healthcare Provider	6262	11/7/2012	Loss	FALSE	HARD
+567	CHRISTUS St. John Hospital	TX	Healthcare Provider	5748	11/16/2012	Loss	FALSE	OELE
+568	L.A. Care Health Plan	CA	Health Plan	18000	11/17/2012	Other	FALSE	OTHE
+569	"Hawaii State Department of Health, Adult Mental Health Division"	HI	Healthcare Provider	674	11/20/2012	Hacking/IT Incident	FALSE	ELEC
+570	"Soundental Associates, PC"	CT	Healthcare Provider	14511	11/21/2012	Theft	FALSE	OELE
+571	"Original Medicine Acupuncture & Wellness, LLC"	NM	Healthcare Provider	540	11/21/2012	Theft	FALSE	ELEC
+572	Brigham and Women's Hospital	MA	Healthcare Provider	615	11/26/2012	Theft	FALSE	ELEC
+573	"Advantage Health Solutions, Inc."	IN	Business Associate	2575	11/26/2012	Other	TRUE	OTHE
+574	"James M. McGee, D.M.D., P.C."	GA	Healthcare Provider	1306	11/27/2012	Theft	FALSE	HARD
+575	Robbins Eye Center PC	CT	Healthcare Provider	1749	11/28/2012	Theft	FALSE	ELEC
+576	"Advanced Data Processing, Inc."	FL	Healthcare Clearing House	10000	11/29/2012	Theft	FALSE	ELEC
+577	Cuyahoga County Board of Developmental Disabilities	OH	Healthcare Provider	613	11/29/2012	Theft	FALSE	ELEC
+578	Blue Cross Blue Shield	IL	Business Associate	500	11/29/2012	Unauthorized Access/Disclosure	TRUE	ELEC
+579	Vidant Pungo Hospital	NC	Healthcare Provider	1100	11/29/2012	Improper Disposal	FALSE	HARD
+580	County of San Bernardino Department of Public Heatlh	CA	Healthcare Provider	1370	11/29/2012	Unauthorized Access/Disclosure	FALSE	HARD
+581	ADPI-West	CA	Business Associate	1500	11/29/2012	"Theft, Unauthorized Access/Disclosure"	TRUE	ELEC
+582	Landmark Medical Center	RI	Healthcare Provider	683	11/30/2012	Theft	FALSE	ELEC
+583	University of Virginia Medical Center	VA	Healthcare Provider	1846	11/30/2012	Loss	FALSE	OELE
+584	Carolinas Medical Center - Randolph	NC	Healthcare Provider	5600	12/7/2012	Hacking/IT Incident	FALSE	EM
+585	"Coastal Behavioral Healthcare, Inc."	FL	Healthcare Provider	4907	12/7/2012	Theft	FALSE	HARD
+586	"CCS Medical, Inc."	TX	Healthcare Provider	6601	12/10/2012	Unauthorized Access/Disclosure	FALSE	OELE
+587	Columbia University Medical Center and NewYork-Presbyterian Hospital	NY	Healthcare Provider	4929	12/14/2012	Theft	FALSE	ELEC
+588	Health Advantage	AR	Health Plan	2863	12/20/2012	Other	FALSE	HARD
+589	Westerville Dental Center	OH	Healthcare Provider	850	12/20/2012	Theft	FALSE	ELEC
+590	"HealthPlus, Amerigroup"	NY	Business Associate	28187	12/21/2012	Unauthorized Access/Disclosure	TRUE	OTHE
+591	"Center for Orthopedic Research and Education, Inc."	AZ	Healthcare Provider	35488	12/21/2012	Theft	FALSE	HARD
+592	Calif. Dept. of Health Care Services (DHCS)	CA	Health Plan	2643	12/23/2012	Unauthorized Access/Disclosure	FALSE	OTHE
+593	Richard Switzer MD PC	MI	Healthcare Provider	4100	12/23/2012	Other	FALSE	ELEC
+594	Gibson General Hospital	IN	Healthcare Provider	28893	12/26/2012	Theft	FALSE	ELEC
+595	"Sovereign Medical Group, LLC"	NJ	Healthcare Provider	27800	12/27/2012	"Hacking/IT Incident, Theft"	FALSE	ELEC
+596	HP Enterprise Services	KY	Business Associate	1090	12/28/2012	Theft	TRUE	ELEC
+597	"Clearpoint Design, Inc."	MA	Business Associate	4343	12/28/2012	Hacking/IT Incident	TRUE	ELEC
+598	"Omnicell, Inc."	CA	Business Associate	56820	12/31/2012	Theft	TRUE	ELEC
+599	St. Mark's Medical Center	TX	Healthcare Provider	2988	12/31/2012	Hacking/IT Incident	FALSE	ELEC
+600	Group Health Incorporated	NY	Health Plan	1771	1/2/2013	Theft	FALSE	HARD
+601	"Calvin Schuster,MD"	CA	Healthcare Provider	532	1/4/2013	Theft	FALSE	ELEC
+602	"Clearpoint Design, Inc."	MA	Business Associate	4125	1/7/2013	Hacking/IT Incident	TRUE	ELEC
+603	University of Nevada School of Medicine	NV	Healthcare Provider	1483	1/8/2013	Improper Disposal	FALSE	HARD
+604	WorkflowOne	OH	Business Associate	635	1/8/2013	Unauthorized Access/Disclosure	TRUE	HARD
+605	SilverScript Insurance Company	AZ	Health Plan	852	1/8/2013	Unauthorized Access/Disclosure	FALSE	HARD
+606	"Clearpoint Design, Inc."	MA	Business Associate	7250	1/10/2013	Hacking/IT Incident	TRUE	ELEC
+607	Pousson Family Dentistry	LA	Healthcare Provider	1400	1/10/2013	Theft	FALSE	ELEC
+608	"Clearpoint Design, Inc."	MA	Business Associate	4100	1/10/2013	Hacking/IT Incident	TRUE	ELEC
+609	"Lee D. Pollan, DMD, PC"	NY	Healthcare Provider	19178	1/11/2013	Theft	FALSE	ELEC
+610	Washington University School of Medicine	MO	Healthcare Provider	1105	1/11/2013	Theft	FALSE	ELEC
+611	Riderwood Village	MD	Healthcare Provider	3230	1/17/2013	Theft	FALSE	ELEC
+612	WAYNE MEMORIAL HOSPITAL	PA	Healthcare Provider	1184	1/18/2013	Loss	FALSE	OTHE
+613	Baptist Health System	TX	Healthcare Provider	678	1/22/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+614	BlueCross BlueShield of Western New York	NY	Business Associate	725	1/22/2013	Theft	TRUE	HARD
+615	The University of Texas MD Anderson Cancer Center	TX	Healthcare Provider	29021	1/24/2013	Theft	FALSE	ELEC
+616	"Western Wisconsin Medical Association, S.C. - River Falls Medical Clinics"	WI	Healthcare Provider	2400	1/25/2013	Theft	FALSE	HARD
+617	RR Donnelley (a sub-BA for UnitedHealth Group)	IL	Business Associate	8911	1/30/2013	Theft	TRUE	ELEC
+618	Kmart Pharmacy #7623	LA	Business Associate	16988	1/31/2013	Improper Disposal	TRUE	HARD
+619	Community Services NW	AL	Healthcare Provider	2400	2/2/2013	Theft	FALSE	ELEC
+620	LifeGas	GA	Business Associate	1103	2/4/2013	Theft	TRUE	ELEC
+621	Yadkinville Chiropractic DCPA	NC	Business Associate	1000	2/6/2013	Theft	TRUE	ELEC
+622	West Georgia Ambulance	GA	Healthcare Provider	500	2/11/2013	Loss	FALSE	ELEC
+623	"Center for Pain Management, LLC"	MD	Healthcare Provider	5822	2/12/2013	Theft	FALSE	ELEC
+624	"Coast Healthcare Management, LLC"	CA	Business Associate	1368	2/12/2013	"Other, Theft"	TRUE	HARD
+625	Froedtert Health	WI	Healthcare Provider	43549	2/12/2013	Unauthorized Access/Disclosure	FALSE	OTHE
+626	Jackson Health System	FL	Healthcare Provider	566	2/13/2013	Other	FALSE	HARD
+627	"Kindred Healthcare, Inc. d/b/a Kindred Transitional Care and Rehabilitation - Marl"	MA	Healthcare Provider	716	2/14/2013	Theft	FALSE	OELE
+628	"HomeCare of Mid-Missouri, Inc."	MO	Healthcare Provider	4027	2/14/2013	Theft	FALSE	ELEC
+629	Heyman HospiceCare at Floyd	GA	Healthcare Provider	1819	2/15/2013	Theft	FALSE	ELEC
+630	ABQ HealthPartners	NM	Healthcare Provider	778	2/17/2013	Theft	FALSE	ELEC
+631	Terrell County Health Department	GA	Healthcare Provider	18000	2/18/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+632	"DentaQuest of Florida, LLC"	MA	Business Associate	3667	2/19/2013	Unauthorized Access/Disclosure	TRUE	HARD
+633	Stronghold Counseling Services Inc	SD	Healthcare Provider	8500	2/21/2013	Theft	FALSE	ELEC
+634	Arizona Oncology	AZ	Healthcare Provider	501	2/21/2013	Theft	FALSE	ELEC
+635	Crescent Health Inc. - a Walgreens Company	CA	Healthcare Provider	109000	2/22/2013	Theft	FALSE	ELEC
+636	"County of San Bernardino, Department of Behavioral Health"	CA	Health Plan	686	2/25/2013	Theft	FALSE	HARD
+637	"WOMENS HEALTH ENTERPRISE, INC."	GA	Healthcare Provider	3000	2/27/2013	Theft	FALSE	ELEC
+638	Standard Register	OH	Business Associate	2261	3/1/2013	Theft	TRUE	HARD
+639	Health Plus Amerigroup	NY	Business Associate	28187	3/1/2013	Theft	TRUE	OELE
+640	Plexus Group	IL	Business Associate	500	3/1/2013	Unauthorized Access/Disclosure	TRUE	OTHE
+641	South Miami Hospital	FL	Healthcare Provider	834	3/2/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+642	Lancaster General Medical Group	PA	Healthcare Provider	527	3/4/2013	Theft	FALSE	HARD
+643	Maine Medical Center	ME	Healthcare Provider	1920	3/4/2013	Other	FALSE	EM
+644	North Los Angeles County Regional Center 	CA	Business Associate	18162	3/4/2013	Theft	TRUE	ELEC
+645	Goold Health System (Goold)	MA	Business Associate	6332	3/6/2013	Loss	TRUE	OELE
+646	Sports Rehabilitation Consultants	OH	Healthcare Provider	1200	3/6/2013	Theft	FALSE	ELEC
+647	University of Connecticut Health Center	CT	Healthcare Provider	1382	3/8/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+648	"United HomeCare Services, Inc."	FL	Healthcare Provider	12299	3/9/2013	Theft	FALSE	ELEC
+649	Patterson Dental Supply/Patterson Companies	MN	Business Associate	6400	3/12/2013	Hacking/IT Incident	TRUE	ELEC
+650	Connextions c/o Anthem BCBS	IN	Business Associate	1678	3/14/2013	"Theft, Unauthorized Access/Disclosure"	TRUE	ELEC
+651	Mount Sinai Medical Center	FL	Healthcare Provider	628	3/15/2013	Theft	FALSE	SEMI
+652	"Thomas L. Davis, Jr. DDS"	OR	Healthcare Provider	3269	3/15/2013	Theft	FALSE	ELEC
+653	"HealthCare for Women, Inc."	MA	Healthcare Provider	8727	3/20/2013	Hacking/IT Incident	FALSE	ELEC
+654	University of Mississippi Medical Center	MS	Healthcare Provider	500	3/21/2013	Loss	FALSE	ELEC
+655	Granger Medical Clinic	UT	Healthcare Provider	2600	3/22/2013	"Loss, Other, Theft"	FALSE	HARD
+656	Texas Tech Unversity Health Sciences Center	TX	Healthcare Provider	697	3/22/2013	Unauthorized Access/Disclosure	FALSE	HARD
+657	Rite Aid #10217	RI	Healthcare Provider	2082	3/29/2013	"Other, Unknown"	FALSE	HARD
+658	"Sunil Kakar, Psy.D."	WA	Business Associate	629	3/29/2013	Theft	TRUE	ELEC
+659	"QuickRunner, Inc. (dba, RoadRunner Mailing Services)"	CA	Business Associate	2400	3/29/2013	Unauthorized Access/Disclosure	TRUE	HARD
+660	"Shands Jacksonville Medical Center, Inc."	FL	Healthcare Provider	1025	4/2/2013	Theft	FALSE	ELEC
+661	University of Florida	FL	Healthcare Provider	14519	4/3/2013	"Other, Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+662	Kmart Corporation	IL	Healthcare Provider	12542	4/3/2013	Theft	FALSE	ELEC
+663	PORTAL HEALTHCARE SOLUTIONS LLC	VA	Business Associate	2360	4/4/2013	Theft	TRUE	ELEC
+664	Hospice and Palliative Care Center of Alamance Caswell	NC	Healthcare Provider	5370	4/4/2013	"Theft, Unauthorized Access/Disclosure"	FALSE	SEMI
+665	"Texas Health Care, P.L.L.C."	TX	Healthcare Provider	554	4/5/2013	Theft	FALSE	HARD
+666	TMG Health 	PA	Business Associate	3794	4/5/2013	Unauthorized Access/Disclosure	TRUE	HARD
+667	Wm. Jennings Bryan Dorn VAMC	SC	Healthcare Provider	7405	4/10/2013	Theft	FALSE	ELEC
+668	John J. Pershing VA Medical Center	MO	Healthcare Provider	589	4/11/2013	Theft	FALSE	HARD
+669	Oregon Health & Science University	OR	Healthcare Provider	1076	4/11/2013	Theft	FALSE	ELEC
+670	Schneck Medical Center	IN	Healthcare Provider	3131	4/12/2013	Unauthorized Access/Disclosure	FALSE	OTHE
+671	The Guidance Center of Westchester	NY	Healthcare Provider	1416	4/17/2013	Theft	FALSE	ELEC
+672	Hope Hospice	TX	Healthcare Provider	818	4/25/2013	Other	FALSE	EM
+673	"IHC Health Services, Inc. dba Intermountain Life Flight"	UT	Healthcare Provider	857	4/26/2013	Unauthorized Access/Disclosure	FALSE	OTHE
+674	Valley Mental Health	UT	Healthcare Provider	700	4/26/2013	Theft	FALSE	ELEC
+675	ZDI	CA	Business Associate	14829	4/29/2013	Loss	TRUE	HARD
+676	Raleigh Orthopaedic Clinic	NC	Healthcare Provider	17300	4/30/2013	"Improper Disposal, Theft, Unauthorized Access/Disclosure"	FALSE	HARD
+677	Laboratory Corporation of America	NC	Healthcare Provider	1580	5/1/2013	Theft	FALSE	ELEC
+678	"Arizona Counseling & Treatment Services, LLC"	AZ	Healthcare Provider	3800	5/1/2013	Theft	FALSE	OELE
+679	Wood County Hospital	OH	Healthcare Provider	2500	5/3/2013	Theft	FALSE	OTHE
+680	University of Rochester Medical Center & Affiliates	NY	Healthcare Provider	537	5/6/2013	Loss	FALSE	OELE
+681	AssuranceMD f/k/a Harbor Group	PA	Business Associate	22000	5/7/2013	Theft	TRUE	OELE
+682	Digital Archive Management	TX	Business Associate	189489	5/7/2013	Improper Disposal	TRUE	HARD
+683	Seattle - King County Department of Public Health	WA	Healthcare Provider	750	5/7/2013	Improper Disposal	FALSE	HARD
+684	Regional Medical Center	TN	Healthcare Provider	1180	5/7/2013	Unauthorized Access/Disclosure	FALSE	EM
+685	"E-dreamz, Inc."	NC	Business Associate	9988	5/8/2013	Hacking/IT Incident	TRUE	ELEC
+686	"North Atlantic Telecom, Inc."	TN	Business Associate	539	5/8/2013	Other	TRUE	ELEC
+687	"E-dreamz, Inc."	NC	Business Associate	1924	5/10/2013	Hacking/IT Incident	TRUE	ELEC
+688	Indiana University Health Arnett	IN	Healthcare Provider	10350	5/13/2013	Theft	FALSE	ELEC
+689	"Dent Neurologic Group, LLP"	NY	Healthcare Provider	10000	5/14/2013	Other	FALSE	EM
+690	City of Norwood	OH	Healthcare Provider	9577	5/20/2013	Loss	FALSE	ELEC
+691	Lutheran Social Services of South Central Pennsylvania	PA	Healthcare Provider	7803	5/20/2013	Hacking/IT Incident	FALSE	ELEC
+692	Just the Connection Inc	IN	Business Associate	5388	5/20/2013	Improper Disposal	TRUE	OTHE
+693	Erskine Family Dentistry	IN	Healthcare Provider	2723	5/21/2013	Hacking/IT Incident	FALSE	ELEC
+694	Health Resources of Arkansas	AR	Healthcare Provider	1900	5/23/2013	"Theft, Unauthorized Access/Disclosure"	FALSE	OTHE
+695	SynerMed / Inland Valleys IPA	CA	Business Associate	3164	5/24/2013	Theft	TRUE	ELEC
+696	Independence Care System	NY	Health Plan	2434	5/24/2013	Theft	FALSE	ELEC
+697	Sonoma Valley Hospital	CA	Healthcare Provider	1386	5/24/2013	Other	FALSE	OTHE
+698	Bon Secours Mary Immaculate Hospital	VA	Healthcare Provider	5764	5/29/2013	Theft	FALSE	ELEC
+699	University of Florida	FL	Healthcare Provider	5875	5/30/2013	"Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+700	"Community Support Services, Inc."	OH	Healthcare Provider	1167	6/3/2013	Theft	FALSE	EM
+701	UMASSAmherst	MA	Healthcare Provider	1670	6/5/2013	Hacking/IT Incident	FALSE	ELEC
+702	Palm Beach County Health Department	FL	Healthcare Provider	877	6/11/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+703	Lucile Packard Children's Hospital	CA	Healthcare Provider	12900	6/13/2013	Theft	FALSE	ELEC
+704	Fayetteville VAMC	NC	Healthcare Provider	1093	6/14/2013	Theft	FALSE	HARD
+705	Lincoln County Health and Human Services/Lincoln Community Health Center	OR	Healthcare Provider	959	6/14/2013	Unauthorized Access/Disclosure	FALSE	HARD
+706	Union Security Insurance Company	MO	Health Plan	1127	6/17/2013	Improper Disposal	FALSE	EM
+707	"Gulf Breeze Family Eyecare, Inc"	FL	Healthcare Provider	9626	6/17/2013	"Theft, Unauthorized Access/Disclosure"	FALSE	SEMI
+708	Jacksonville Spine Center	FL	Healthcare Provider	5200	6/24/2013	Theft	FALSE	HARD
+709	Iowa Department of Human Services	IA	Healthcare Provider	7335	6/26/2013	"Loss, Unknown"	FALSE	OTHE
+710	James A. Fosnaugh	NE	Healthcare Provider	2125	6/26/2013	Loss	FALSE	OELE
+711	Lone Star Circle of Care	TX	Healthcare Provider	1955	6/28/2013	Theft	FALSE	ELEC
+712	Alberto Gerardo Vazquez Rivera	PR	Business Associate	679	6/28/2013	Theft	TRUE	ELEC
+713	RCR Technology Corporation	IN	Business Associate	187533	7/1/2013	Other	TRUE	HARD
+714	CVS Caremark	AZ	Business Associate	4305	7/2/2013	Theft	TRUE	HARD
+715	"Health Net, Inc."	CA	Health Plan	8331	7/2/2013	Other	FALSE	HARD
+716	"South Florida Neurology Associates, P.A."	FL	Healthcare Provider	900	7/3/2013	Theft	FALSE	ELEC
+717	Samaritan Regional Health System	OH	Healthcare Provider	2203	7/3/2013	Theft	FALSE	HARD
+718	MED-EL Coproration	NC	Healthcare Provider	609	7/5/2013	Other	FALSE	EM
+719	Nelson Family of Companies	CA	Business Associate	4479	7/5/2013	Unauthorized Access/Disclosure	TRUE	EM
+720	Family Health Network	IL	Business Associate	3133	7/8/2013	Other	TRUE	HARD
+721	ZDI	CA	Business Associate	4718	7/10/2013	Loss	TRUE	HARD
+722	"Medtronic, Inc."	MN	Healthcare Provider	2764	7/10/2013	Theft	FALSE	HARD
+723	Shred-it International Inc.	TX	Business Associate	277014	7/11/2013	Improper Disposal	TRUE	OTHE
+724	Long Beach Memorial Medical Center	CA	Healthcare Provider	2864	7/11/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+725	People Resource Corporation	MO	Business Associate	4560	7/15/2013	Unauthorized Access/Disclosure	TRUE	OTHE
+726	Harris County	TX	Health Plan	21000	7/16/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+727	Jesle Kuizon	CA	Business Associate	800	7/18/2013	"Hacking/IT Incident, Theft, Unauthorized Access/Disclosure"	TRUE	ELEC
+728	"GEO Care, LLC"	FL	Healthcare Provider	710	7/19/2013	Theft	FALSE	ELEC
+729	The Brookdale Hospital and Medical Center	NY	Healthcare Provider	2700	7/20/2013	Loss	FALSE	OELE
+730	Louisiana State University Health Care Services Division	LA	Healthcare Provider	6994	7/22/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+731	Oregon Health & Science University	OR	Healthcare Provider	1361	7/28/2013	Unauthorized Access/Disclosure	FALSE	OTHE
+732	"Rocky Mountain Spine Clinic, P.C."	CO	Healthcare Provider	532	7/31/2013	"Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+733	"Vitreo-Retinal Medical Group, Inc. "	CA	Healthcare Provider	1837	8/2/2013	Theft	FALSE	ELEC
+734	Health Resources of Arkansas	AR	Business Associate	1911	8/5/2013	Theft	TRUE	ELEC
+735	Baylor All Saints Medical Center at Fort Worth	TX	Healthcare Provider	940	8/5/2013	Unauthorized Access/Disclosure	FALSE	OELE
+736	M2ComSys Inc.	NV	Business Associate	32151	8/8/2013	Unauthorized Access/Disclosure	TRUE	ELEC
+737	Young Family Medicine Inc.	OH	Healthcare Provider	2045	8/12/2013	Theft	FALSE	ELEC
+738	Hancock OB/GYN	IN	Healthcare Provider	1396	8/12/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+739	Anthem BCBS of GA	IN	Business Associate	5497	8/13/2013	Theft	TRUE	OTHE
+740	"InfoCrossing, Inc."	MO	Business Associate	1357	8/13/2013	Unauthorized Access/Disclosure	TRUE	HARD
+741	Foundations Recovery Network	TN	Healthcare Provider	5690	8/15/2013	Theft	FALSE	ELEC
+742	California Correctional Health Care Services	CA	Healthcare Provider	1033	8/16/2013	Other	FALSE	HARD
+743	North Texas Comprehensive Spine & Pain Center	TX	Healthcare Provider	3200	8/19/2013	"Loss, Theft"	FALSE	OELE
+744	Minne-Tohe Health Center/Elbowoods Memorial Health Center	ND	Health Plan	10000	8/21/2013	"Improper Disposal, Unauthorized Access/Disclosure"	FALSE	OELE
+745	Jackson Health System	FL	Healthcare Provider	1471	8/22/2013	Other	FALSE	HARD
+746	"Advocate Health and Hospitals Corporation, d/b/a Advocate Medical Group"	IL	Healthcare Provider	4029530	8/23/2013	Theft	FALSE	ELEC
+747	"Summit Community Care Clinic, Inc."	CO	Healthcare Provider	921	8/27/2013	Hacking/IT Incident	FALSE	ELEC
+748	UT Physicians	TX	Healthcare Provider	596	8/28/2013	"Loss, Theft"	FALSE	ELEC
+749	"Cogent Healthcare, Inc."	TN	Business Associate	32000	8/30/2013	Theft	TRUE	ELEC
+750	Atlanta Center for Reproductive Medicine	GA	Healthcare Provider	654	8/30/2013	Other	FALSE	EM
+751	St. Anthony's Physician Organization	MO	Healthcare Provider	2600	8/30/2013	Theft	FALSE	OELE
+752	Janna Benkelman LPC LLC	CO	Healthcare Provider	1500	9/3/2013	Theft	FALSE	ELEC
+753	Olson & White Orthodontics	MO	Healthcare Provider	10000	9/3/2013	Theft	FALSE	ELEC
+754	Kaiser Foundation Health Plan of the Northwest	OR	Health Plan	647	9/3/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+755	"Hankyu Chung, M.D."	CA	Healthcare Provider	2182	9/6/2013	Theft	FALSE	ELEC
+756	"ICS Collection Service, Inc."	IL	Business Associate	1290	9/6/2013	Hacking/IT Incident	TRUE	OTHE
+757	PHMHS	PR	Business Associate	5000	9/11/2013	Theft	TRUE	ELEC
+758	"NHC HealthCare, Oak Ridge"	TN	Healthcare Provider	4268	9/13/2013	Loss	FALSE	OTHE
+759	"NHC HealthCare, Mauldin"	SC	Healthcare Clearing House	4204	9/13/2013	Improper Disposal	FALSE	OTHE
+760	Blackhawk Consulting Group	GA	Business Associate	2029	9/13/2013	Hacking/IT Incident	TRUE	ELEC
+761	Blackhawk Consulting Group	GA	Business Associate	998	9/13/2013	Hacking/IT Incident	TRUE	ELEC
+762	"South Shore Physicians, PC"	NY	Healthcare Provider	8000	9/16/2013	Theft	FALSE	ELEC
+763	Dermatology Associates of Tallahassee	FL	Healthcare Provider	915	9/16/2013	Unknown	FALSE	OTHE
+764	Sierra View District Hospital	CA	Healthcare Provider	1009	9/20/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+765	"InfoCrossing, Inc."	MO	Business Associate	25461	9/20/2013	Unauthorized Access/Disclosure	TRUE	HARD
+766	Region Ten Community Services Board	VA	Healthcare Provider	10228	9/26/2013	Theft	FALSE	EM
+767	Comprehensive Podiatry LLC	OH	Healthcare Provider	1360	9/27/2013	Theft	FALSE	ELEC
+768	Santa Clara Valley Medical Center	CA	Healthcare Provider	579	9/27/2013	Theft	FALSE	ELEC
+769	Not Applicable 	CO	Business Associate	3512	9/28/2013	Theft	TRUE	ELEC
+770	"Carol L. Patrick, Ph.D."	OH	Healthcare Provider	517	9/30/2013	Theft	FALSE	ELEC
+771	HOPE Family Health	TN	Healthcare Provider	6932	9/30/2013	Theft	FALSE	ELEC
+772	UnityPoint Health Affiliated Covered Entity (UnityPoint)	IA	Healthcare Provider	1825	10/2/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+773	"Paragon Benefits, Inc."	GA	Business Associate	5232	10/2/2013	Theft	TRUE	EM
+774	"University of California, San Francisco"	CA	Healthcare Provider	3553	10/3/2013	Theft	FALSE	SEMI
+775	"Reconstructive Orthopaedic Associates II, P.C. d/b/a Rothman Institute"	PA	Healthcare Provider	2350	10/3/2013	Theft	FALSE	HARD
+776	Group Health Cooperative	WA	Healthcare Provider	1015	10/3/2013	Other	FALSE	HARD
+777	Schuylkill Health System	PA	Healthcare Provider	2810	10/4/2013	Theft	FALSE	ELEC
+778	CaroMont Medical Group	NC	Healthcare Provider	1310	10/4/2013	Other	FALSE	EM
+779	Mount SInai Medical Center	NY	Healthcare Provider	1586	10/4/2013	Improper Disposal	FALSE	HARD
+780	Healthcare Management System 	TN	Business Associate	4330	10/4/2013	Unauthorized Access/Disclosure	TRUE	HARD
+781	Saint Louis University	MO	Healthcare Provider	3100	10/7/2013	Unauthorized Access/Disclosure	FALSE	EM
+782	BlackHawk	IL	Business Associate	7120	10/9/2013	Hacking/IT Incident	TRUE	ELEC
+783	Ferris State University - MI College of Optometry	MI	Healthcare Provider	3947	10/11/2013	Hacking/IT Incident	FALSE	ELEC
+784	"Access Counseling, LLC"	IN	Healthcare Provider	566	10/14/2013	Theft	FALSE	ELEC
+785	Rose Medical Center	CO	Healthcare Provider	606	10/14/2013	Improper Disposal	FALSE	HARD
+786	BriovaRx	IL	Healthcare Provider	1067	10/14/2013	Unauthorized Access/Disclosure	FALSE	EM
+787	"North Country Hospital and Health Center, Inc"	VT	Healthcare Provider	550	10/15/2013	Theft	FALSE	ELEC
+788	"Hope Community Resources, Inc."	AK	Healthcare Provider	1556	10/16/2013	Unauthorized Access/Disclosure	FALSE	EM
+789	Broward Health Medical Center	FL	Healthcare Provider	960	10/17/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+790	Mount Sinai Medical Center	NY	Healthcare Provider	610	10/21/2013	Loss	FALSE	OELE
+791	Texas Health Presbyterian Dallas Hospital	TX	Healthcare Provider	949	10/22/2013	Theft	FALSE	ELEC
+792	Seton Healthcare Family	TX	Healthcare Provider	5500	10/23/2013	Theft	FALSE	ELEC
+793	PROFESSIONAL TRANSCRIPTION SERVICES	NY	Business Associate	37000	10/25/2013	Unauthorized Access/Disclosure	TRUE	ELEC
+794	Good Samaritan Hospital	CA	Healthcare Provider	3833	10/25/2013	Theft	FALSE	ELEC
+795	SSM Health Care of Wisconsin DBA: St. Marys Janesville Hospital	WI	Healthcare Provider	631	10/25/2013	Theft	FALSE	ELEC
+796	AHMC Healthcare Inc. and affiliated Hospitals	CA	Healthcare Provider	729000	10/25/2013	Theft	FALSE	ELEC
+797	"Greater Dallas Orthopaedics, PLLC"	TX	Healthcare Provider	5840	10/28/2013	Theft	FALSE	ELEC
+798	"Spirit Home Health Care, Corp"	FL	Business Associate	603	10/29/2013	Improper Disposal	TRUE	HARD
+799	Rotech Healthcare Inc.	FL	Healthcare Provider	10680	10/29/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+800	"Reimbursement Technologies, Inc."	PA	Healthcare Clearing House	2300	10/31/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+801	"Superior HealthPlan, Inc."	TX	Health Plan	6284	11/1/2013	Other	FALSE	HARD
+802	Genesis Rehabilitation Services	PA	Healthcare Provider	1167	11/1/2013	Loss	FALSE	OELE
+803	"Colorado Health & Wellness, Inc."	CO	Healthcare Provider	651	11/2/2013	"Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+804	Barnabas Health Medical Group	NJ	Healthcare Provider	1100	11/5/2013	Theft	FALSE	ELEC
+805	"DaVita, a division of DaVita HealthCare Partners Inc"	CO	Healthcare Provider	11500	11/5/2013	"Other, Theft"	FALSE	ELEC
+806	Blue Cross and Blue Shield of North Carolina	NC	Health Plan	687	11/7/2013	Unauthorized Access/Disclosure	FALSE	HARD
+807	North Carolina Department of Health and Human Services - Division of State Operated Health Care Facilities  	NC	Healthcare Provider	1315	11/8/2013	Unauthorized Access/Disclosure	FALSE	OTHE
+808	Triple S Salud Inc.	PR	Business Associate	13336	11/8/2013	Unauthorized Access/Disclosure	TRUE	HARD
+809	Associated Urologists of North Carolina	NC	Healthcare Provider	7300	11/8/2013	Other	FALSE	OTHE
+810	Kemmet Dental Design 	ND	Healthcare Provider	2000	11/12/2013	"Other, Theft"	FALSE	HARD
+811	Hospice of the Chesapeake	MD	Healthcare Provider	7606	11/12/2013	Theft	FALSE	EM
+812	All Source Medical Management	AZ	Business Associate	1456	11/13/2013	Theft	TRUE	OTHE
+813	Memorial Sloan-Kettering Cancer Center	NY	Healthcare Provider	2279	11/13/2013	Loss	FALSE	OELE
+814	Health Fitness Corporation	IL	Business Associate	4837	11/14/2013	Theft	TRUE	ELEC
+815	UHS-Pruitt Corporation	GA	Healthcare Provider	1300	11/15/2013	Theft	FALSE	ELEC
+816	"United Dynacare, LLC dba Dynacare Laboratories"	WI	Healthcare Provider	9328	11/18/2013	Theft	FALSE	OELE
+817	Redwood Memorial Hospital	CA	Healthcare Provider	1039	11/19/2013	Loss	FALSE	OELE
+818	"University of California, San Francisco"	CA	Healthcare Provider	8294	11/22/2013	Theft	FALSE	SEMI
+819	Kaiser Foundation Hospital- Orange County	CA	Healthcare Provider	49000	11/22/2013	Loss	FALSE	OELE
+820	Jones Chiropractic and Maximum Health	IN	Healthcare Provider	1500	11/26/2013	Theft	FALSE	ELEC
+821	Ronald Schubert MD PLLC	WA	Healthcare Provider	950	11/26/2013	Theft	FALSE	ELEC
+822	UPMC	PA	Healthcare Provider	1279	11/27/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+823	UW Medicine	WA	Healthcare Provider	76183	11/27/2013	Hacking/IT Incident	FALSE	ELEC
+824	City of Chicago	IL	Healthcare Provider	2080	11/29/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+825	"Quality Health Claims Consultants, LLC"	IL	Business Associate	1573	12/6/2013	Theft	TRUE	EM
+826	SIU HealthCare	IL	Healthcare Provider	1891	12/6/2013	"Loss, Theft"	FALSE	ELEC
+827	The Good Samaritan Health Center	GA	Healthcare Provider	5000	12/6/2013	Other	FALSE	ELEC
+828	UniHealth Source	GA	Healthcare Provider	4500	12/6/2013	Theft	FALSE	ELEC
+829	Walgreen Co.	IL	Healthcare Provider	17350	12/6/2013	Other	FALSE	HARD
+830	Methodist Dallas Medical Center	TX	Healthcare Provider	44000	12/6/2013	Unauthorized Access/Disclosure	FALSE	OTHE
+831	Florida Digestive Health Specialists	FL	Healthcare Provider	4400	12/9/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+832	"Northside Hospital, Inc."	GA	Healthcare Provider	4879	12/10/2013	Loss	FALSE	ELEC
+833	"Health Help, Inc."	KY	Healthcare Provider	535	12/10/2013	Theft	FALSE	OELE
+834	L.A. Gay & Lesbian Center	CA	Healthcare Provider	59000	12/10/2013	Hacking/IT Incident	FALSE	ELEC
+835	Mosaic	NE	Healthcare Provider	3857	12/11/2013	Other	FALSE	EM
+836	Island Peer Review Organization	NY	Business Associate	9642	12/12/2013	Loss	TRUE	OELE
+837	Molina Healthcare In	CA	Business Associate	1499	12/16/2013	Unauthorized Access/Disclosure	TRUE	ELEC
+838	Wyoming Department of Health	WY	Health Plan	11935	12/16/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+839	Shiloh Medical Clinic	MT	Healthcare Provider	1900	12/17/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+840	DeLoach & Williamson	SC	Business Associate	3432	12/18/2013	Theft	TRUE	ELEC
+841	Colby DeHart	TN	Business Associate	2777	12/19/2013	Theft	TRUE	ELEC
+842	ZDI	CA	Business Associate	1674	12/20/2013	Loss	TRUE	HARD
+843	"Molina Healthcare of Texas, Inc."	TX	Health Plan	2826	12/21/2013	Other	FALSE	HARD
+844	"Rob Meaglia, DDS"	CA	Healthcare Provider	1400	12/23/2013	Theft	FALSE	ELEC
+845	Jeff Spiegel	MA	Healthcare Provider	832	12/23/2013	Unauthorized Access/Disclosure	FALSE	EM
+846	Tranquility Counseling Services	NC	Healthcare Provider	1683	12/23/2013	Other	FALSE	HARD
+847	Florida Department of Health	FL	Healthcare Provider	2354	12/23/2013	Unauthorized Access/Disclosure	FALSE	ELEC
+848	"New Mexico Oncology Hematology Consultants, LTD"	NM	Healthcare Provider	12354	12/31/2013	Theft	FALSE	ELEC
+849	Colorado Community Health Alliance (CCHA)/Physicians Health Partners	CO	Business Associate	1918	1/2/2014	Unauthorized Access/Disclosure	TRUE	EM
+850	"Horizon Healthcare Services, Inc., doing business as Horizon Blue Cross Blue Shield of New Jersey, and its affiliates"	NJ	Business Associate	839711	1/3/2014	Theft	TRUE	ELEC
+851	Phoebe Putney Memorial Hospital	GA	Healthcare Provider	6989	1/3/2014	Loss	FALSE	ELEC
+852	Coulee Medical Center	WA	Healthcare Provider	2500	1/3/2014	Theft	FALSE	ELEC
+853	"RevSpring, Inc."	MI	Business Associate	3000	1/6/2014	Other	TRUE	HARD
+854	North Carolina Department of Health and Human Services 	NC	Health Plan	48752	1/6/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+855	"Phreesia, Inc"	NY	Business Associate	2500	1/8/2014	Theft	TRUE	ELEC
+856	Tri Lakes Medical Center	MS	Healthcare Provider	1489	1/10/2014	Hacking/IT Incident	FALSE	ELEC
+857	Virginia Premier Health Plan (VPHP)	VA	Business Associate	25513	1/10/2014	Theft	TRUE	HARD
+858	Cook County Health & Hospitals System	IL	Healthcare Provider	22511	1/11/2014	Other	FALSE	EM
+859	Southwest General Health Center	OH	Healthcare Provider	953	1/13/2014	Unknown	FALSE	OTHE
+860	"RGH Enterprises, Inc."	OH	Health Plan	4230	1/13/2014	Theft	FALSE	ELEC
+861	Network Pharmacy Knoxville	TN	Healthcare Provider	9602	1/15/2014	Theft	FALSE	ELEC
+862	Saint Francis Hospital and Medical Center	CT	Healthcare Provider	858	1/16/2014	Theft	FALSE	HARD
+863	Sentara Healthcare	VA	Healthcare Provider	3861	1/16/2014	"Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+864	Health Dimensions	MI	Healthcare Provider	5370	1/16/2014	Theft	FALSE	ELEC
+865	COMPLETE MEDICAL HOMECARE	KS	Healthcare Provider	1700	1/21/2014	Unauthorized Access/Disclosure	FALSE	OELE
+866	Hospital for Special Surgery	NY	Healthcare Provider	937	1/21/2014	Theft	FALSE	SEMI
+867	The Brooklyn Hospital Center	NY	Healthcare Provider	2172	1/22/2014	Loss	FALSE	OELE
+868	"Robert B. Neves, M.D."	CA	Business Associate	611	1/24/2014	Theft	TRUE	ELEC
+869	"Triple-C, Inc."	PR	Business Associate	398000	1/24/2014	Theft	TRUE	ELEC
+870	"Triple-C, Inc."	PR	Business Associate	8000	1/24/2014	"Theft, Unauthorized Access/Disclosure"	TRUE	ELEC
+871	"Birmingham Printing and Publishing, Inc dba Paper Airplane"	AL	Business Associate	1085	1/24/2014	Other	TRUE	OTHE
+872	Medical Mutual of Ohio	OH	Business Associate	1420	1/27/2014	Unauthorized Access/Disclosure	TRUE	HARD
+873	University of Wisconsin-Madison School of Pharmacy	WI	Business Associate	41437	1/30/2014	Loss	TRUE	OELE
+874	The University of Texas MD Anderson Cancer Center	TX	Healthcare Provider	3598	1/31/2014	Loss	FALSE	OELE
+875	Beebe Medical Center	DE	Healthcare Provider	1883	1/31/2014	Other	FALSE	ELEC
+876	St. Joseph Health System 	TX	Health Plan	405000	2/5/2014	Hacking/IT Incident	FALSE	ELEC
+877	"Min Yi, M.D."	CA	Healthcare Provider	4676	2/5/2014	Theft	FALSE	OELE
+878	Easter Seal Society of Superior California	CA	Healthcare Provider	3026	2/7/2014	Theft	FALSE	ELEC
+879	PruittHealth Pharmacy Services	GA	Healthcare Provider	841	2/7/2014	Theft	FALSE	ELEC
+880	Kmart Corporation	IL	Healthcare Provider	16446	2/10/2014	Theft	FALSE	OELE
+881	WA State Department of Social & Health Services	WA	Health Plan	3104	2/11/2014	"Other, Unauthorized Access/Disclosure"	FALSE	HARD
+882	Not Applicable 	NY	Business Associate	6475	2/12/2014	"Other, Theft"	TRUE	ELEC
+883	University of Miami	FL	Healthcare Provider	13074	2/12/2014	Loss	FALSE	HARD
+884	"Supportive Concepts for Families, Inc."	PA	Healthcare Provider	593	2/13/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+885	Health Care Solutions at Home Inc.	OH	Health Plan	1139	2/14/2014	Theft	FALSE	OTHE
+886	University of California Davis Medical Center	CA	Healthcare Provider	2269	2/14/2014	Hacking/IT Incident	FALSE	EM
+887	"St. Vincent Hospital and Healthcare, Inc"	IN	Healthcare Provider	1142	2/18/2014	Theft	FALSE	ELEC
+888	"StayWell Health Management, LLC"	MN	Business Associate	10024	2/21/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+889	"StayWell Health Management, LLC"	MN	Business Associate	520	2/21/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+890	"StayWell Health Management, LLC"	MN	Business Associate	4786	2/21/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+891	Inspira Health Network Inc.	NJ	Healthcare Provider	1411	2/21/2014	Theft	FALSE	ELEC
+892	"StayWell Health Management, LLC"	MN	Business Associate	1511	2/25/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+893	"Care Advantage, Inc."	VA	Healthcare Provider	3458	2/26/2014	Theft	FALSE	ELEC
+894	Pair Networks Inc.	PA	Business Associate	8845	2/26/2014	"Other, Unauthorized Access/Disclosure"	TRUE	OTHE
+895	"The Kroger Co., for itself and its affiliates and subsidiaries"	OH	Healthcare Provider	504	2/26/2014	Other	FALSE	ELEC
+896	"Cornerstone Health Care, PA"	NC	Healthcare Provider	548	2/26/2014	"Loss, Theft"	FALSE	ELEC
+897	Joseph Michael Benson M.D	TX	Healthcare Provider	7500	2/27/2014	Theft	FALSE	ELEC
+898	Data Media	GA	Business Associate	600	2/28/2014	Other	TRUE	OTHE
+899	Eureka Internal Medicine	CA	Healthcare Provider	3534	3/4/2014	Improper Disposal	FALSE	HARD
+900	St. Joseph Health System	TX	Business Associate	3300	3/5/2014	Hacking/IT Incident	TRUE	ELEC
+901	Banner Health	AZ	Healthcare Provider	55207	3/5/2014	Other	FALSE	OTHE
+902	"PracMan, Inc."	AL	Business Associate	1179	3/10/2014	Hacking/IT Incident	TRUE	ELEC
+903	Iowa Dept. of Human Services	IA	Health Plan	2042	3/10/2014	Other	FALSE	OELE
+904	Mission City Community Network	CA	Healthcare Provider	7800	3/12/2014	Theft	FALSE	EM
+905	"University of California, San Francisco"	CA	Healthcare Provider	9861	3/12/2014	Theft	FALSE	ELEC
+906	Detroit Medical Center - Harper University Hospital	MI	Healthcare Provider	1087	3/13/2014	"Theft, Unauthorized Access/Disclosure"	FALSE	HARD
+907	"Todd M. Burton, M.D."	TX	Healthcare Provider	5000	3/13/2014	Theft	FALSE	OTHE
+908	Valley View Hosptial Association	CO	Healthcare Provider	5415	3/14/2014	Other	FALSE	MAG
+909	Hospitalists of Arizona	AZ	Healthcare Provider	1706	3/16/2014	Theft	FALSE	ELEC
+910	TMA Practice Management Group	TX	Business Associate	2260	3/17/2014	"Improper Disposal, Loss"	TRUE	OELE
+911	"StayWell Health Management, LLC"	MN	Business Associate	1746	3/18/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+912	Berea College	KY	Healthcare Provider	1000	3/20/2014	Other	FALSE	ELEC
+913	"HealthPartners, Inc."	MN	Health Plan	27839	3/21/2014	"Loss, Unauthorized Access/Disclosure"	FALSE	OELE
+914	"HealthPartners Administrators, Inc."	MN	Business Associate	796	3/21/2014	"Loss, Unauthorized Access/Disclosure"	TRUE	OELE
+915	"HealthPartners Administrators, Inc."	MN	Business Associate	1699	3/21/2014	"Loss, Unauthorized Access/Disclosure"	TRUE	OELE
+916	"HealthPartners Administrators, Inc."	MN	Business Associate	715	3/21/2014	"Loss, Unauthorized Access/Disclosure"	TRUE	OELE
+917	Talyst	WA	Business Associate	1079	3/24/2014	Theft	TRUE	ELEC
+918	Yellowstone Boys and Girls Ranch	MT	Healthcare Provider	543	3/24/2014	Theft	FALSE	HARD
+919	"Orlando Health, Inc."	FL	Healthcare Provider	586	3/24/2014	Loss	FALSE	OELE
+920	NOVA Chiropractic & Rehab Center	VA	Healthcare Provider	5534	3/27/2014	"Loss, Other"	FALSE	OELE
+921	Susquehanna Health	PA	Healthcare Provider	657	3/27/2014	Unauthorized Access/Disclosure	FALSE	EM
+922	Jewish Hospital	KY	Healthcare Provider	2992	3/28/2014	Other	FALSE	EM
+923	Franciscan Medical Group	WA	Healthcare Provider	8300	3/28/2014	Other	FALSE	EM
+924	Palomar Health	CA	Healthcare Provider	5499	3/28/2014	Theft	FALSE	OELE
+925	"Myriad Genetic Laboratories, Inc."	UT	Healthcare Provider	643	3/29/2014	Unauthorized Access/Disclosure	FALSE	EM
+926	"RelayHealth, a division of McKesson"	GA	Business Associate	1000	3/31/2014	Unauthorized Access/Disclosure	TRUE	OTHE
+927	"Policy Studies, Inc. / Postal Center International, Inc."	FL	Business Associate	580	3/31/2014	Unauthorized Access/Disclosure	TRUE	HARD
+928	"Midwest Orthopaedics at Rush, LLC"	IL	Healthcare Provider	1256	3/31/2014	Hacking/IT Incident	FALSE	EM
+929	Indian Health Service	MD	Health Plan	214000	4/1/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+930	Kaiser Permanente Northern CA Department of Research	CA	Healthcare Provider	5178	4/2/2014	Hacking/IT Incident	FALSE	ELEC
+931	Triple-S Salud 	PR	Health Plan	5795	4/2/2014	Theft	FALSE	OTHE
+932	American Health Inc. 	PR	Health Plan	17776	4/3/2014	Theft	FALSE	OTHE
+933	"State Long Term Care Ombudsmans Office, Michigan Department of Community Health "	MI	Health Plan	2595	4/3/2014	Theft	FALSE	OELE
+934	Presence St. Joseph's Medical Center	IL	Healthcare Provider	836	4/4/2014	Other	FALSE	HARD
+935	"Clinical Reference Laboratory, Inc."	KS	Healthcare Provider	979	4/9/2014	Loss	FALSE	HARD
+936	Cigna	CT	Business Associate	527	4/9/2014	Loss	TRUE	HARD
+937	"Amerigroup Texas, Inc. "	VA	Business Associate	75026	4/10/2014	Theft	TRUE	HARD
+938	BLUE CROSS AND BLUE SHIELD OF KANSAS CITY	MO	Health Plan	2546	4/11/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+939	"University Urology, P.C."	TN	Healthcare Provider	1144	4/14/2014	Unauthorized Access/Disclosure	FALSE	HARD
+940	"Healthy Connections, Inc"	CA	Healthcare Provider	793	4/14/2014	Loss	FALSE	OELE
+941	IHS	MD	Health Plan	5000	4/15/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+942	Triple S Salud Inc.	PR	Business Associate	7911	4/15/2014	Theft	TRUE	OELE
+943	Greenwood Leflore Hospital	MS	Healthcare Provider	3750	4/16/2014	Theft	FALSE	OTHE
+944	"Service Coordination, Inc."	MD	Business Associate	10766	4/17/2014	"Hacking/IT Incident, Unauthorized Access/Disclosure"	TRUE	ELEC
+945	"Courier Express/Atlanta, Courier Express/Charlotte & Courier Express US, Inc."	GA	Business Associate	2523	4/17/2014	"Theft, Unauthorized Access/Disclosure"	TRUE	HARD
+946	Shaker Clinic	OH	Healthcare Provider	617	4/18/2014	Loss	FALSE	HARD
+947	Tri State Adjustments	WI	Business Associate	1400	4/18/2014	Other	TRUE	OTHE
+948	Larsen Dental Care LLC	ID	Healthcare Provider	6900	4/18/2014	Theft	FALSE	OELE
+949	CENTURA HEALTH	CO	Healthcare Provider	12286	4/22/2014	Hacking/IT Incident	FALSE	EM
+950	"Ladies First Choice, Inc."	FL	Healthcare Provider	2365	4/23/2014	"Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+951	"Tufts Associated Health Maintenance Organization, Inc. and Tufts Insurance Company "	MA	Health Plan	8830	4/24/2014	Theft	FALSE	OTHE
+952	Inclusion Research Institute	DC	Business Associate	2200	4/24/2014	Unauthorized Access/Disclosure	TRUE	HARD
+953	Willis North America Inc. Medical Expense Benefit Plan	NY	Health Plan	4830	4/24/2014	Unauthorized Access/Disclosure	FALSE	EM
+954	Sorenson Communications	UT	Business Associate	9800	4/24/2014	Hacking/IT Incident	TRUE	ELEC
+955	Baylor Medical Center at McKinney	TX	Healthcare Provider	1253	4/25/2014	Hacking/IT Incident	FALSE	EM
+956	Baylor Medical Center at Irving	TX	Healthcare Provider	2308	4/25/2014	Hacking/IT Incident	FALSE	EM
+957	Baylor Regional Medical Center at Plano	TX	Healthcare Provider	1981	4/25/2014	Hacking/IT Incident	FALSE	EM
+958	HealthTexas Provider Network	TX	Healthcare Provider	2742	4/25/2014	Hacking/IT Incident	FALSE	EM
+959	"Ferguson Advertising, Inc."	IN	Business Associate	1361	4/25/2014	Hacking/IT Incident	TRUE	ELEC
+960	Iowa Medicaid Enterprise	IA	Health Plan	862	4/25/2014	Unauthorized Access/Disclosure	FALSE	HARD
+961	Flowers Hospital	AL	Healthcare Provider	629	4/25/2014	Theft	FALSE	HARD
+962	Reading Health System	PA	Healthcare Provider	1845	4/29/2014	Loss	FALSE	HARD
+963	MDF Transcription Services	MA	Business Associate	15265	4/29/2014	Other	TRUE	OTHE
+964	OptumRx	IL	Business Associate	5696	4/30/2014	Theft	TRUE	HARD
+965	UMass Memorial Medical Center	MA	Healthcare Provider	2387	5/5/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+966	KEYSTONE INSURERS GROUP	IN	Business Associate	1008	5/6/2014	Other	TRUE	EM
+967	Options Counseling Center	NJ	Healthcare Provider	2828	5/9/2014	"Theft, Unauthorized Access/Disclosure"	FALSE	HARD
+968	Creel Printing	NV	Business Associate	4744	5/10/2014	Other	TRUE	HARD
+969	Howard L. Weinstein D.P.M.	TX	Healthcare Provider	1000	5/10/2014	Theft	FALSE	ELEC
+970	American Health Inc. 	PR	Health Plan	11531	5/18/2014	Unauthorized Access/Disclosure	FALSE	HARD
+971	Central City Concern	OR	Healthcare Provider	17914	5/19/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+972	Bloom Health	MN	Business Associate	502	5/19/2014	"Hacking/IT Incident, Unauthorized Access/Disclosure"	TRUE	EM
+973	Elliot Health System	NH	Healthcare Provider	1208	5/21/2014	Theft	FALSE	ELEC
+974	"Sutherland Healthcare Solutions, Inc."	NJ	Business Associate	342197	5/22/2014	Theft	TRUE	ELEC
+975	Humana Inc [case #15381]	KY	Health Plan	2962	5/23/2014	Theft	FALSE	OELE
+976	Jamaica Hospital Medical Center	NY	Healthcare Provider	26162	5/23/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+977	Bay Park Hospital	OH	Healthcare Provider	594	5/28/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+978	Triple-S Salud 	PR	Health Plan	56853	5/29/2014	Unauthorized Access/Disclosure	FALSE	HARD
+979	"NFP Maschino, Hudelson & Associates"	OK	Business Associate	3814	5/30/2014	Theft	TRUE	ELEC
+980	Salina Health Education Foundation dba Salina Family Healthcare Center	KS	Healthcare Provider	9640	6/5/2014	Unauthorized Access/Disclosure	FALSE	EM
+981	Open Cities Health Center 	MN	Healthcare Provider	1304	6/5/2014	Other	FALSE	EM
+982	Mark A. Gillispie	CA	Healthcare Provider	5845	6/6/2014	Theft	FALSE	ELEC
+983	Penn State Milton S Hershey Medical Center	PA	Healthcare Provider	1801	6/6/2014	Other	FALSE	OELE
+984	Walgreen Co.	IL	Healthcare Provider	540	6/6/2014	Theft	FALSE	SEMI
+985	St. Francis Hospital	GA	Healthcare Provider	1175	6/9/2014	Other	FALSE	EM
+986	"Doctors First Choice Billings, Inc"	FL	Business Associate	9255	6/11/2014	Theft	TRUE	OTHE
+987	"Doctors First Choice Billings, Inc."	FL	Business Associate	1831	6/12/2014	Hacking/IT Incident	TRUE	OTHE
+988	Santa Rosa Memorial Hospital 	CA	Healthcare Provider	33702	6/13/2014	"Loss, Theft"	FALSE	OELE
+989	Baylor Medical Center at Carrollton	TX	Healthcare Provider	2874	6/13/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+990	Group Health Plan of Hurley Medical Center	MI	Health Plan	2289	6/16/2014	Unauthorized Access/Disclosure	FALSE	EM
+991	IHS	MD	Health Plan	620	6/19/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+992	"David DiGiallorenzo, D.M.D."	PA	Healthcare Provider	11000	6/19/2014	"Hacking/IT Incident, Unauthorized Access/Disclosure"	FALSE	OTHE
+993	"NRAD Medical Associates, P.C."	NY	Healthcare Provider	97000	6/20/2014	"Hacking/IT Incident, Unauthorized Access/Disclosure"	FALSE	OELE
+994	NYU Hospitals Center	NY	Healthcare Provider	872	6/20/2014	Theft	FALSE	ELEC
+995	"Abrham Tekola, M.D.,INC"	CA	Healthcare Provider	5471	6/20/2014	Theft	FALSE	ELEC
+996	Colorado Neurodiagnostics	CO	Healthcare Provider	750	6/23/2014	Theft	FALSE	ELEC
+997	"Sloane Stecker Physical Therapy, PC"	NY	Healthcare Provider	2000	6/24/2014	Theft	FALSE	ELEC
+998	Riverside County Regional Medical Center	CA	Healthcare Provider	563	6/24/2014	Theft	FALSE	ELEC
+999	Rady Children's Hospital - San Diego	CA	Healthcare Provider	14121	6/24/2014	Unauthorized Access/Disclosure	FALSE	EM
+1000	Rady Children's Hospital - San Diego	CA	Healthcare Provider	6307	6/25/2014	Unauthorized Access/Disclosure	FALSE	OELE
+1001	Alabama Department of Public Health	AL	Healthcare Provider	1200	6/26/2014	Theft	FALSE	ELEC
+1002	The Union Labor Life Insurance Company	MD	Healthcare Provider	42713	6/27/2014	Theft	FALSE	ELEC
+1003	VA Long Beach Healthcare System	CA	Healthcare Provider	592	7/4/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1004	D&J Optical Inc. 	AL	Health Plan	1100	7/7/2014	Hacking/IT Incident	FALSE	ELEC
+1005	Montana Department of Public Health and Human Services	MT	Health Plan	1062509	7/7/2014	Hacking/IT Incident	FALSE	ELEC
+1006	Highmark Inc.	PA	Business Associate	2589	7/8/2014	Theft	TRUE	HARD
+1007	Haley Chiropractic Clinic	WA	Healthcare Provider	6000	7/8/2014	Theft	FALSE	MAG
+1008	"St. Vincent Hospital and Health Care Center, Inc."	IN	Business Associate	63325	7/9/2014	Unauthorized Access/Disclosure	TRUE	HARD
+1009	"InSync Computer Solutions, Inc."	AL	Business Associate	50918	7/11/2014	Other	TRUE	ELEC
+1010	Western Regional Center for Brain and Spine Surgery	NV	Healthcare Provider	12000	7/12/2014	Theft	FALSE	ELEC
+1011	Indian Health Service	SD	Health Plan	620	7/15/2014	"Loss, Unauthorized Access/Disclosure"	FALSE	OTHE
+1012	University of Pennsylvania Health System	PA	Healthcare Provider	661	7/16/2014	Theft	FALSE	HARD
+1013	Bay Area Pain Medical Associates 	CA	Healthcare Provider	2780	7/16/2014	Theft	FALSE	ELEC
+1014	Minneapolis VA Health Care System	MN	Health Plan	500	7/17/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1015	McKesson Business Performance Services	NJ	Business Associate	680	7/23/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+1016	Xand Corporation	NY	Business Associate	3334	7/23/2014	Other	TRUE	ELEC
+1017	Self Regional Healthcare 	SC	Healthcare Provider	38906	7/25/2014	Theft	FALSE	ELEC
+1018	"Urological Associates of Southern Arizona, P.C."	AZ	Healthcare Provider	3529	7/25/2014	Improper Disposal	FALSE	OTHE
+1019	Dr. Veronica Joann Barber	CA	Business Associate	4000	7/28/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+1020	"PRN Medical Services, LLC dba Symbius Medical, LLC"	AZ	Healthcare Provider	13877	7/29/2014	"Other, Theft, Unauthorized Access/Disclosure"	FALSE	ELEC
+1021	Midwest Urological Group	IL	Healthcare Provider	982	7/30/2014	Theft	FALSE	ELEC
+1022	Rite Aid Store 5256	WA	Healthcare Provider	522	7/30/2014	Theft	FALSE	HARD
+1023	"StayWell Health Management, LLC"	MN	Business Associate	4487	7/31/2014	Hacking/IT Incident	TRUE	ELEC
+1024	Cancer Specialists of Tidewater	VA	Healthcare Provider	2318	7/31/2014	"Theft, Unauthorized Access/Disclosure, Unknown"	FALSE	OELE
+1025	MobilexUSA	OH	Healthcare Provider	605	8/6/2014	Loss	FALSE	HARD
+1026	Jersey City Medical Center - Barnabas Health	NJ	Healthcare Provider	36400	8/7/2014	Loss	FALSE	OTHE
+1027	Diamond Computing Company	GA	Business Associate	7016	8/7/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+1028	"Central Utah Clinic, P.C."	UT	Healthcare Provider	31677	8/7/2014	Hacking/IT Incident	FALSE	ELEC
+1029	"PST Services Inc, a McKesson Co."	GA	Business Associate	10104	8/8/2014	Hacking/IT Incident	TRUE	ELEC
+1030	Onsite Health Diagnostics (OHD)	TX	Business Associate	60582	8/8/2014	Hacking/IT Incident	TRUE	ELEC
+1031	Apple Valley Care Center	CA	Healthcare Provider	1251	8/12/2014	Hacking/IT Incident	FALSE	ELEC
+1032	Kaiser Foundation Health Plan of Colorado	CO	Health Plan	11551	8/12/2014	"Other, Unauthorized Access/Disclosure"	FALSE	OTHE
+1033	"CareAll Management, LLC"	TN	Healthcare Provider	28300	8/12/2014	Improper Disposal	FALSE	OTHE
+1034	Iron Mountain Records Management	CA	Business Associate	1674	8/13/2014	"Improper Disposal, Loss, Theft"	TRUE	OTHE
+1035	"24 ON Physicians, PC/In Compass Health,Inc."	GA	Business Associate	520	8/14/2014	"Hacking/IT Incident, Other"	TRUE	ELEC
+1036	Iron Mountain Incorporated	MA	Business Associate	10000	8/15/2014	"Loss, Theft"	TRUE	HARD
+1037	Iron Mountain	CA	Business Associate	49714	8/15/2014	"Improper Disposal, Loss, Theft"	TRUE	HARD
+1038	University Health	LA	Healthcare Provider	6073	8/15/2014	Hacking/IT Incident	FALSE	ELEC
+1039	Tri-City Medical Center	CA	Healthcare Provider	500	8/18/2014	Theft	FALSE	HARD
+1040	Dennis Flynn MD	IL	Healthcare Provider	13646	8/19/2014	Theft	FALSE	ELEC
+1041	Community Health Systems Professional Services Corporation	TN	Business Associate	4500000	8/20/2014	Theft	TRUE	ELEC
+1042	Oklahoma City Indian Clinic	OK	Healthcare Provider	6000	8/22/2014	Unauthorized Access/Disclosure	FALSE	EM
+1043	"Steven A. Goldman, MD Inc."	OH	Healthcare Provider	6141	8/22/2014	Theft	FALSE	ELEC
+1044	Specialty Clinics Of Georgia - Orthopaedics	GA	Healthcare Provider	2350	8/25/2014	Theft	FALSE	HARD
+1045	St. Elizabeth's Medical Center	MA	Healthcare Provider	595	8/26/2014	Theft	FALSE	OELE
+1046	Aventura Hospital and Medical Center	FL	Healthcare Provider	948	8/26/2014	Theft	FALSE	ELEC
+1047	Midwest Womens Healthcare Specialist	MO	Healthcare Provider	1376	8/26/2014	Improper Disposal	FALSE	HARD
+1048	Group Health Incorporated	NY	Health Plan	802	8/27/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1049	"The Longstreet Clinic, P. C."	GA	Healthcare Provider	720	8/28/2014	Improper Disposal	FALSE	OTHE
+1050	Metropolitan Government of Nashville and Davidson County (Metro) Public Health Department	TN	Health Plan	1717	8/29/2014	Other	FALSE	OTHE
+1051	Duke University Health System	NC	Healthcare Provider	10993	8/29/2014	Theft	FALSE	OELE
+1052	Memorial Hermann Health System	TX	Healthcare Provider	10604	8/29/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+1053	AltaMed Health Services Corporation	CA	Healthcare Provider	3206	8/29/2014	Theft	FALSE	ELEC
+1054	"Bulloch Pediatric Group, LLC"	GA	Healthcare Provider	10000	9/4/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1055	Emdeon	TN	Business Associate	566	9/4/2014	Theft	TRUE	HARD
+1056	Temple University Physicians	PA	Healthcare Provider	3780	9/5/2014	Theft	FALSE	ELEC
+1057	The WellPoint Affiliated Covered Entities  	IN	Health Plan	1464	9/8/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1058	"Thomas Cristello, Chiropractor PC"	NY	Healthcare Provider	914	9/9/2014	Loss	FALSE	OELE
+1059	"ENT Partners of Texas (legally known as Irving-Coppell Ear, Nose and Throat) "	TX	Healthcare Provider	789	9/9/2014	"Loss, Theft"	FALSE	OELE
+1060	Bon Secours Kentucky	KY	Healthcare Provider	697	9/9/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+1061	Valesco Ventures	FL	Business Associate	82601	9/9/2014	"Theft, Unauthorized Access/Disclosure"	TRUE	ELEC
+1062	Wm. Jennings Bryan Dorn VA Medical Center	SC	Healthcare Provider	3637	9/10/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1063	Kmart Corporation	IL	Healthcare Provider	1866	9/10/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1064	"Xerox State Healthcare, LLC"	TX	Business Associate	2000000	9/10/2014	Unauthorized Access/Disclosure	TRUE	OELE
+1065	Cedars-Sinai Health System	CA	Healthcare Provider	33136	9/10/2014	Theft	FALSE	ELEC
+1066	Tampa General Hospital	FL	Healthcare Provider	675	9/12/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+1067	Santa Fe Medical Group	NM	Healthcare Provider	843	9/12/2014	Theft	FALSE	OELE
+1068	Emdeon	TN	Business Associate	800	9/12/2014	Theft	TRUE	HARD
+1069	South Suburban HIV/AIDS Regional Clinics	IL	Business Associate	767	9/17/2014	Other	TRUE	EM
+1070	New Mexico VA Health Care System	NM	Healthcare Provider	2657	9/18/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1071	"Research Integrity, LLC"	KY	Business Associate	4077	9/22/2014	Unauthorized Access/Disclosure	TRUE	OELE
+1072	Madison Street Provider Network	CO	Healthcare Provider	523	9/26/2014	Theft	FALSE	ELEC
+1073	"Compassionate Care Hospice of Central Louisiana, LLC"	LA	Healthcare Provider	707	9/26/2014	Theft	FALSE	OELE
+1074	"American Family Care, Inc."	AL	Healthcare Provider	2588	9/30/2014	Theft	FALSE	ELEC
+1075	"U.S. Health Holdings, Ltd. o/b/o Macomb County, Michigan"	MI	Health Plan	6302	10/1/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+1076	Mount Sinai Beth Israel	NY	Healthcare Provider	10793	10/3/2014	Theft	FALSE	ELEC
+1077	"Touchstone Medical Imaging, LLC"	TN	Healthcare Provider	307528	10/3/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+1078	Albertina Kerr Centers	OR	Healthcare Provider	1320	10/6/2014	Theft	FALSE	ELEC
+1079	Vcarve LLC d/b/a MD Manage	NJ	Business Associate	585	10/6/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+1080	VARO Healthcare	PA	Business Associate	1667	10/7/2014	Unauthorized Access/Disclosure	TRUE	HARD
+1081	vonica chau DDS PA	TX	Healthcare Provider	810	10/8/2014	Theft	FALSE	ELEC
+1082	University of California Davis Medical Center	CA	Healthcare Provider	1326	10/8/2014	Hacking/IT Incident	FALSE	EM
+1083	South Texas Veterans Health Care System	TX	Healthcare Provider	4000	10/9/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1084	Cone Health Medical Group	NC	Healthcare Provider	1872	10/9/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1085	Region Six of the Georgia Department of Behavioral Health and Developmental Disabilities	GA	Healthcare Provider	3397	10/9/2014	Theft	FALSE	ELEC
+1086	NYU Urology Associates	NY	Healthcare Provider	835	10/10/2014	Unauthorized Access/Disclosure	FALSE	OELE
+1087	"Health Services Advisory Group, Inc."	AZ	Business Associate	15380	10/10/2014	Unauthorized Access/Disclosure	TRUE	OTHE
+1088	M&M Computer Services	TX	Business Associate	4500	10/10/2014	Hacking/IT Incident	TRUE	ELEC
+1089	New York City Health & Hospitals Corporation	NY	Healthcare Provider	10058	10/10/2014	Unauthorized Access/Disclosure	FALSE	HARD
+1090	Southwest Virginia Physicians for Women	VA	Healthcare Provider	568	10/10/2014	"Theft, Unauthorized Access/Disclosure"	FALSE	HARD
+1091	City of Dallas Fire-Rescue Department	TX	Healthcare Provider	1000	10/15/2014	Theft	FALSE	ELEC
+1092	Graybill Medical Group	CA	Healthcare Provider	1863	10/15/2014	Theft	FALSE	OTHE
+1093	MD Manage (Vcarve LLC)	NJ	Business Associate	35357	10/22/2014	Unauthorized Access/Disclosure	TRUE	ELEC
+1094	"Seven Counties Services, Inc."	KY	Healthcare Provider	727	10/22/2014	"Improper Disposal, Unauthorized Access/Disclosure"	FALSE	HARD
+1095	"Nisar A. Quraishi, M.D."	NY	Healthcare Provider	20000	10/22/2014	Theft	FALSE	HARD
+1096	"Multilingual Psychotherapy Centers, Inc"	FL	Healthcare Provider	3500	10/28/2014	Theft	FALSE	ELEC
+1097	Burlington Northern Santa Fe Group Benefits Plan	TX	Health Plan	507	10/28/2014	Loss	FALSE	OELE
+1098	Portland VA Medical Center	OR	Healthcare Provider	1740	10/29/2014	Theft	FALSE	HARD
+1099	Memorial Healthcare System	FL	Healthcare Provider	1782	10/30/2014	Unauthorized Access/Disclosure	FALSE	EM
+1100	Coordinated Health 	PA	Healthcare Provider	13907	10/31/2014	Theft	FALSE	ELEC
+1101	"Jessie Trice Community Health Center, Inc."	FL	Healthcare Provider	7888	11/3/2014	Theft	FALSE	ELEC
+1102	"Central Dermatology Center, P.A."	NC	Healthcare Provider	76258	11/7/2014	Theft	FALSE	ELEC
+1103	Weill Cornell Medical College	NY	Healthcare Provider	3936	11/7/2014	Theft	FALSE	ELEC
+1104	Visionworks Inc.	TX	Health Plan	74944	11/10/2014	Loss	FALSE	ELEC
+1105	Loi Luu	CA	Healthcare Provider	13177	11/14/2014	Theft	FALSE	ELEC
+1106	Iron Mountain	CA	Business Associate	2691	11/14/2014	Theft	TRUE	HARD
+1107	Colorado River Indian Tribes	AZ	Healthcare Provider	1296	11/14/2014	Other	FALSE	EM
+1108	REEVE-WOODS EYE CENTER	CA	Healthcare Provider	30000	11/15/2014	Theft	FALSE	ELEC
+1109	Brigham and Women's Hospital	MA	Healthcare Provider	999	11/17/2014	Theft	FALSE	OELE
+1110	Kirkbride Center	PA	Healthcare Provider	860	11/19/2014	Theft	FALSE	HARD
+1111	"MetroPlus Health Plan, Inc."	NY	Health Plan	31980	11/20/2014	Other	FALSE	EM
+1112	"Baptist Primary Care, Inc."	FL	Healthcare Provider	1449	11/20/2014	Unauthorized Access/Disclosure	FALSE	ELEC
+1113	Visionworks Inc.	TX	Health Plan	47683	11/21/2014	Theft	FALSE	ELEC
+1114	True Vision Eyecare	OH	Healthcare Provider	542	11/21/2014	Theft	FALSE	ELEC
+1115	AdminisTEP	TX	Business Associate	4469	11/25/2014	Unauthorized Access/Disclosure	TRUE	HARD
+1116	Northfield Hospital & Clinics	MN	Healthcare Provider	1778	11/25/2014	Improper Disposal	FALSE	HARD
+1117	"Computer Programs and Systems, Inc. "	AL	Business Associate	25764	11/26/2014	Theft	TRUE	ELEC
+1118	North Big Horn Hospital	WY	Healthcare Provider	1607	12/1/2014	Loss	FALSE	HARD
+1119	The Hearing Zone	UT	Healthcare Provider	623	12/5/2014	Theft	FALSE	ELEC
+1120	Florida Department of Health	FL	Healthcare Provider	2477	12/8/2014	Other	FALSE	EM
+1121	ReachOut Home Care [Case #16687]	KY	Healthcare Provider	4500	12/9/2014	Theft	FALSE	ELEC
+1122	Sony Pictures Entertainment Health and Welfare Benefits Plan (the Plan)	CA	Health Plan	30000	12/12/2014	Hacking/IT Incident	FALSE	ELEC
+1123	District Medical Group	AZ	Healthcare Provider	616	12/12/2014	Unauthorized Access/Disclosure	FALSE	OELE
+1124	Clay County Hospital	IL	Healthcare Provider	12621	12/12/2014	Unauthorized Access/Disclosure	FALSE	OTHE
+1125	St. Mary Mercy Hospital	MI	Healthcare Provider	1488	12/12/2014	Unauthorized Access/Disclosure	FALSE	EM
+1126	Walgreen Co.	IL	Healthcare Provider	160000	12/15/2014	Other	FALSE	HARD
+1127	mdINR LLC	FL	Healthcare Provider	1859	1/5/2015	Unauthorized Access/Disclosure	FALSE	EM
+1128	VA Corporate Data Center Operations/Austin Information Technology Center 	TX	Healthcare Provider	7029	1/7/2015	Hacking/IT Incident	FALSE	ELEC
+1129	Saint Louis County Department of Health	MO	Healthcare Provider	4000	1/7/2015	Unauthorized Access/Disclosure	FALSE	ELEC
+1130	"Aspire Indiana, Inc."	IN	Healthcare Provider	43890	1/7/2015	Theft	FALSE	ELEC
+1131	Inland Empire Health Plan (IEHP)	CA	Health Plan	1030	1/12/2015	Theft	FALSE	ELEC
+1132	Tennessee Rural Health Improvement Association	TN	Health Plan	79000	1/13/2015	Unauthorized Access/Disclosure	FALSE	OTHE
+1133	National Pain Institute	FL	Healthcare Provider	500	1/15/2015	Improper Disposal	FALSE	MAG
+1134	"Rainier Surgical, Incorporated"	TX	Healthcare Provider	4920	1/16/2015	Theft	FALSE	HARD
+1135	St. Peter's Health Partners	NY	Healthcare Provider	5117	1/23/2015	Theft	FALSE	OELE
+1136	"Ronald D. Garrett-Roe, MD"	TX	Healthcare Provider	1600	1/23/2015	Hacking/IT Incident	FALSE	ELEC
+1137	California Pacific Medical Center 	CA	Healthcare Provider	845	1/23/2015	Unauthorized Access/Disclosure	FALSE	ELEC
+1138	Diana S. Guth DBA Home Respiratory Care	CA	Healthcare Provider	1285	1/28/2015	Unauthorized Access/Disclosure	FALSE	EM
+1139	David E. Hansen DDS PS 	WA	Healthcare Provider	2000	1/29/2015	Theft	FALSE	OELE
+1140	Riverside County Regional Medical Center	CA	Healthcare Provider	7925	1/29/2015	Theft	FALSE	ELEC
+1141	"North Dallas Urogynecology, PLLC."	TX	Healthcare Provider	678	1/29/2015	Theft	FALSE	ELEC
+1142	"UMass Memorial Medical Group, Inc."	MA	Healthcare Provider	14100	1/30/2015	Theft	FALSE	OTHE
+1143	Boston Baskin Cancer Foundation	TN	Healthcare Provider	56694	2/2/2015	Theft	FALSE	OELE
+1144	South Sunflower County Hospital	MS	Healthcare Provider	19000	2/4/2015	Improper Disposal	FALSE	HARD
+1145	Planned Parenthood Southwest Ohio	OH	Healthcare Provider	5000	2/5/2015	Improper Disposal	FALSE	HARD
+1146	"Senior Health Partners, a Healthfirst company"	NY	Health Plan	2772	2/6/2015	Theft	FALSE	OELE
+1147	"Tomas, Arturo"	IL	Business Associate	680	2/9/2015	Loss	TRUE	HARD
+1148	Pathway to Hope	FL	Healthcare Provider	600	2/12/2015	Unauthorized Access/Disclosure	FALSE	EM
+1149	Hunt Regional Medical Partners	TX	Healthcare Provider	3000	2/18/2015	Unauthorized Access/Disclosure	FALSE	OTHE
+1150	Marketing Clique	TX	Health Plan	8700	2/20/2015	Unauthorized Access/Disclosure	FALSE	OTHE
+1151	"Raymond Mark Turner, M.D."	NV	Healthcare Provider	2153	2/26/2015	Theft	FALSE	ELEC
